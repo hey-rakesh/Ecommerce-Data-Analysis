@@ -29,7 +29,7 @@ st.write("Interactive dashboard for E-Commerce Sales, Profit and Customer Analys
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/ecommerce_clean.csv")
+    df = pd.read_csv("data/Ecommerce_clean.csv")
 
     df["order_date"] = pd.to_datetime(df["order_date"])
     df["delivery_date"] = pd.to_datetime(df["delivery_date"])
