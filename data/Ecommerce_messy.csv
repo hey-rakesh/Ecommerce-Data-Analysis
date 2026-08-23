@@ -1,0 +1,650 @@
+order_id,customer_id,customer_name,age,gender,city,state,product_id,product_name,category,price,quantity,discount_percent,sales,profit,payment_method,order_date,delivery_date,order_status
+ORD0001,CUST053,Vivaan Reddy,61.0,Female,Kolkata,West Bengal,PRD002,Notebook,Books,286.5,4,0.0,1145.99,229.06,Cash on Delivery,2024-09-27,2024-10-02,Cancelled
+ORD0002,CUST131,Rohan Singh,24.0,Male,Delhi,Delhi,PRD039,Data Science Book,Books,259.66,3,10.0,701.09,240.33,Credit Card,2024-01-22,2024-01-23,Delivered
+ORD0003,CUST002,Kabir Kumar,59.0,Female,Delhi,Delhi,PRD063,Data Science Book,Books,1313.67,1,5.0,1247.98,255.69,Credit Card,2024-12-11,2024-12-13,Delivered
+ORD0004,CUST154,Rahul Nair,46.0,Female,Hyderabad,Telangana,PRD065,Jeans,Clothing,4207.89,5,10.0,18935.49,5232.96,COD,2024-09-26,2024-10-01,Pending
+ORD0005,CUST072,Sneha Verma,50.0,Male,Delhi,Delhi,PRD023,Smartwatch,Electronics,74867.84,2,NA,149735.67,43593.22,Wallet,2025-10-09,2025-10-10,Cancelled
+ORD0006,CUST042,Rahul Singh,49.0,Female,bengaluru,Karnataka,PRD052,Novel,electronics,1469.0,3,15.0,"₹3,745.95",388.99,Net Banking,2025-06-30,2025-07-04,Delivered
+ORD0007,CUST028,Sneha Patel,47.0,Female,Chennai,Tamil Nadu,PRD062,Hair Oil,Beauty,4662.55,5,10.0,20981.47,₹-726.74,UPI,2025-10-16,2025-10-21,Delivered
+ORD0008,CUST118,Ananya Patel,29.0,Male,Delhi,Delhi,PRD002,Mixer,Home & Kitchen,13678.37,2,10.0,24621.07,8012.96,Debit Card,2025-09-19,2025-09-22,Delivered
+ORD0009,CUST198,Arjun Mehta,28.0,Male,Pune,Maharashtra,PRD017,Laptop,Electronics,49219.68,2,15.0,83673.46,9417.18,Wallet,2025-11-29,2025-12-03,Cancelled
+ORD0010,CUST147,Ishaan Patel,58.0,Female,Hyderabad,Telangana,PRD039,Jacket,Clothing,2585.07,3,5.0,7367.45,1663.53,Credit Card,2025-05-25,2025-05-27,Delivered
+ORD0011,CUST048,Sneha Gupta,54.0,Female,Bengaluru,Karnataka,PRD009,Python Book,Books,561.14,4,15.0,1907.89,45.78,UPI,2025-04-17,2025-04-19,Delivered
+ORD0012,CUST153,Pooja Verma,19.0,Female,Mumbai,Karnataka,PRD080,Cookware,Home & Kitchen,23435.93,3,10.0,63277.01,20518.04,Net Banking,2024-05-31,2024-06-03,Delivered
+ORD0013,CUST022,Riya Kumar,55.0,Male,Hyderabad,Telangana,PRD054,Smartwatch,electronics,69212.3,4,15.0,235321.8,45563.72,Debit Card,2025-02-01,2025-02-04,Delivered
+ORD0014,CUST046,Kabir Singh,58.0,Female,Mumbai,Maharashtra,PRD046,Face Wash,Beauty,3889.06,1,30.0,2722.34,332.33,Net Banking,2024-10-10,2024-10-15,return
+ORD0015,CUST114,Kunal Kumar,40.0,Male,Bengaluru,Karnataka,PRD027,Python Book,Books,548.31,2,30.0,767.63,-38.17,Credit Card,2025/13/40,2024-04-28,Delivered
+ORD0016,CUST036,Rahul Patel,18.0,Male,Mumbai,Maharashtra,PRD016,Laptop,Electronics,37478.27,5,0.0,187391.37,-14573.52,Wallet,2025-01-27,2025-02-01,Delivered 
+ORD0017,CUST054,Priya Gupta,50.0,Female,Bengaluru,Karnataka,PRD060,Data Science Book,Books,2121.49,1,0.0,2121.49,580.69,Cash on Delivery,2025-12-27,2026-01-01,Delivered
+ORD0018,CUST058,Rohan Das,40.0,Male,Pune,Maharashtra,PRD012,Notebook,Books,1363.31,1,10.0,1226.98,130.57,Net Banking,2024-12-15,2024-12-19,Delivered
+ORD0019,CUST076,Neha Singh,54.0,Male,Mumbai,Maharashtra,PRD029,T-Shirt,Clothing,4791.28,5,15.0,20362.95,2045.01,Wallet,2024-04-05,2024-04-09,Delivered
+ORD0020,CUST034,Diya Das,36.0,Female,Pune,Maharashtra,PRD001,Smartwatch,Electronics,16022.4,2,15.0,27238.08,5259.41,COD,2025-03-28,2025-04-01,Cancelled
+ORD0021,CUST168,Diya Verma,52.0,male,Hyderabad,Telangana,PRD008,T-Shirt,Clothing,3023.1,5,15.0,12848.19,3504.78,Net Banking,2024-06-08,2024-06-18,Delivered
+ORD0022,CUST101,Ananya Reddy,52.0,Other,Mumbai,Maharashtra,PRD036,Jeans,Clothing,5028.79,5,30.0,17600.77,2739.17,Credit Card,2024-04-24,2024-04-27,Delivered
+ORD0023,CUST177,Arjun Nair,36.0,Male,Kolkata,West Bengal,PRD071,Moisturizer,Beauty,2583.49,1,,2325.14,709.34,Cash on Delivery,2025-01-03,08-01-2025,Returned
+ORD0024,CUST186,Ishaan Das,22.0,M,Kolkata,West Bengal,PRD075,Novel,Books,1730.42,1,0.0,1730.42,554.25,Credit Card,2025-05-20,2025-05-24,Pending
+ORD0025,CUST083,Aanya Sharma,39.0,Female,hyderabad,Telangana,PRD071,Smartphone,Electronics,76755.42,2,0.0,153510.85,-6680.76,UPI,2025-05-06,not available,Cancelled
+ORD0026,CUST058,Aanya Nair,56.0,Female,Hyderabad,Telangana,PRD077,Exam Guide,Books,926.09,5,0%,4630.47,562.71,Cash on Delivery,2025-02-18,2025-02-22,Returned
+ORD0027,CUST164,Aditya Singh,37.0,Male,Unknown,Delhi,PRD047,Python Book,Books,2429.22,5,0.0,"₹12,146.08",3857.55,UPI,31/02/2025,2025-02-18,Delivered
+ORD0028,CUST122,Arjun Das,25.0,Male,Chennai,Tamil Nadu,PRD050,Tablet,Electronics,81894.96,4,0.0,327579.83,21074.46,Cash on Delivery,2025-07-19,23-07-2025,Delivered
+ORD0029,CUST082,Rohan Nair,19.0,Male,Pune,Maharashtra,PRD030,Smartwatch,Electronics,10649.91,5,30.0,37274.68,10201.74,Credit Card,2025/12/04,2025-12-08,Delivered
+ORD0030,CUST105,Aditya Sharma,38.0,Male,Pune,Maharashtra,PRD006,Face Wash,Beauty,4855.59,3,15.0,12381.75,-652.39,Cash on Delivery,2025-01-08,2025-01-14,Delivered
+ORD0031,CUST190,Aarav Sharma,150,Female,Pune,Maharashtra,PRD072,Perfume,Beauty,1184.22,1,30.0,828.95,149.75,Credit Card,2025-03-12,2025-03-16,Delivered
+ORD0032,CUST179,Ishaan Kumar,51.0,Male,Mumbai,Maharashtra,PRD030,Table Lamp,Home & Kitchen,22002.68,5,15.0,93511.4,20830.07,Debit Card,2024-11-01,2024-11-07,Delivered
+ORD0033,CUST017,Rohan Verma,23.0,Female,Kolkata,West Bengal,PRD077,Shoes,Clothing,3077.53,4,10.0,11079.1,3125.41,Wallet,09-05-2024,,Delivered
+ORD0034,CUST093,Pooja Das,36.0,Female,Bengaluru,Karnataka,PRD042,Table Lamp,Home & Kitchen,4073.5,1,25.0,"₹3,055.13",378.24,Net Banking,2024-04-20,2024-04-22,Returned
+ORD0035,CUST107,Neha Sharma,43.0,male,Pune,Maharashtra,PRD008,Tablet,Electronics,81325.82,1,20.0,65060.65,9109.31,UPI,2024-08-20,2024-08-23,Delivered
+ORD0036,CUST038,Aditya Singh,32.0,Male,Pune,Maharashtra,PRD028,Data Science Book,Books,743.23,3,15.0,1895.23,-64.28,Credit Card,2024/01/28,2024-01-31,Pending
+ORD0037,CUST008,Aanya Sharma,61.0,Male,Delhi,Delhi,PRD041,Smartphone, Electronics ,81023.24,4,15.0,275479.01,47476.51,Net Banking,2024-05-05,2024-05-07,Returned
+ORD0038,CUST094,Ananya Mehta,20.0,Female,Hyderabad,Telangana,PRD040,Jeans,Clothing,4437.54,4,110%,"₹13,312.61",-561.9,Net Banking,2025-03-18,2025-03-21,Delivered
+ORD0039,CUST044,Rohan Kumar,43.0,Male,Ahmedabad,Gujarat,PRD019,Shoes,Clothing,2176.37,3,15.0,5549.74,224.16,Cash on Delivery,2024/03/15,2024-03-21,Delivered
+ORD0040,CUST010,Rohan Mehta,27.0,Other,Hyderabad,Telangana,PRD013,Smartwatch,Electronics,free,3,0.0,212873.76,13781.41,Credit Card,2025-07-12,2025-07-17,Delivered
+ORD0041,CUST035,Aarav Reddy,39.0,Male,Delhi,Delhi,PRD072,Face Wash,Beauty,796.63,3,30.0,1672.92,-3.46,Debit Card,2025/07/03,2025-07-06,Delivered
+ORD0042,CUST014,Kabir Sharma,40.0,Male,Pune,Maharashtra,PRD025,Novel,Books,893.06,2,25.0,"₹1,339.59",145.79,COD,2025-12-25,2025-12-27,Delivered
+ORD0043,CUST155,Arjun Kumar,50.0,Female,Kolkata,West Bengal,PRD027,Hoodie,Clothing,3304.93,4,20.0,10575.79,1973.77,UPI,2025-09-07,2025-09-09,Returned
+ORD0044,CUST068,Sneha Verma,44.0,Female,Hyderabad,Telangana,PRD036,Jeans,Clothing,5838.17,5,15.0,24812.23,3204.1,Cash on Delivery,2025-05-31,2025-06-06,Delivered
+ORD0045,CUST210,Aarav Reddy,60.0,Female,Bengaluru,Karnataka,PRD068,Vacuum Cleaner,Home & Kitchen,10440.69,4,30.0,29233.93,-589.94,Net Banking,2025-10-21,2025-10-23,Cancelled
+ORD0046,CUST110,Arjun Kumar,40.0,Female,Ahmedabad,Gujarat,PRD063,T-Shirt,Clothing,1002.59,1,,1002.59,344.37,Wallet,2025-08-26,2025-08-29,return
+ORD0047,CUST219,Vivaan Sharma,60.0,Male,MUMBAI,Karnataka,PRD051,Face Wash,Beauty,2779.5,3,30.0,5836.95,701.9,Wallet,2024-11-04,2024-11-07,Delivered
+ORD0048,CUST086,Aanya Sharma,24.0,Female,Kolkata,West Bengal,PRD013,Notebook,Books,1709.31,4,10.0,6153.53,982.36,Wallet,2024-06-09,2024-06-12,Delievered
+ORD0049,CUST220,Sahil Verma,47.0,Female,Bengaluru,Karnataka,PRD063,Table Lamp,Home & Kitchen,12171.23,3,10.0,32862.31,4781.07,Cash on Delivery,2024-11-13,2024-11-15,Delivered
+ORD0050,CUST215,Aanya Kumar,64.0,Female,Ahmedabad,Gujarat,PRD051,Perfume,Beauty,4361.57,1,15.0,3707.33,108.15,UPI,2025-04-02,2025-04-09,Delivered
+ORD0051,CUST151,Neha Singh,53.0,Female,Kolkata,West Bengal,PRD002,Jacket,Clothing,5744.53,2,0.0,11489.05,-496.69,UPI,2024-04-05,2024-04-20,Pending
+ORD0052,CUST086,NA,34.0,Female,Pune,Maharashtra,PRD059,Novel,Books,1968.51,5,10.0,8858.3,2904.06,Wallet,2025-01-20,2025-01-23,Pending
+ORD0053,CUST098,Rohan Kumar,35.0,Female,Ahmedabad,Gujarat,PRD042,Smartphone,Electronics,68818.33,4,0.0,275273.32,84576.65,Cash on Delivery,2024-04-24,2024-04-28,Delivered
+ORD0054,CUST053,N/A,62.0,Female,Chennai,Tamil Nadu,PRD062,T-Shirt,Clothing,1841.74,3,15.0,4696.43,837.01,Credit Card,2025-11-07,2025-11-12,Returned
+ORD0055,CUST054,Vivaan Mehta,?,Female,Ahmedabad,Gujarat,PRD022,Shoes,Clothing,5511.41,4,20.0,17636.51,842.36,Net Banking,2024-12-28,2024-12-30,Delivered
+ORD0056,CUST129,Priya Reddy,59.0,Male,Mumbai,Maharashtra,PRD035,Exam Guide,Books,935.47,5,10.0,4209.63,299.57,Debit Card,2025-04-11,15-04-2025,Delivered
+ORD0057,CUST012,unknown,36.0,Female,Pune,Maharashtra,PRD021,Exam Guide,Books,2305.69,2,20.0,3689.1,531.82,UPI,2025-03-10,2025-03-13,Pending
+ORD0058,CUST135,Riya Gupta,0,Male,Mumbai,Maharashtra,PRD048,Smartphone,Electronics,64840.37,1,5.0,unknown,10115.46,Credit Card,2024-03-29,2024-04-02,Delivered
+ORD0059,CUST131,Rohan Reddy,43.0,Female,Kolkata,West Bengal,PRD039,Shampoo,Beauty,3062.1,3,15.0,7808.34,990.54,UPI,2024-08-10,2024-08-16,Delivered
+ORD0060,CUST160,Aditya Mehta,63.0,Male,Pune,Maharashtra,PRD062,Tablet,Electronics,42999.0,3,25.0,96747.75,14264.77,UPI,2025-12-22,2025-12-26,Cancelled
+ORD0061,CUST142,Pooja Patel,35.0,Male,Chennai,Tamil Nadu,PRD025,Moisturizer,Beauty,2708.09,1,5.0,2572.69,-83.6,UPI,2025-11-27,2025-12-01,Cancelled
+ORD0062,CUST199,Arjun Reddy,37.0,Female,Chennai,Tamil Nadu,PRD054,Laptop,Electronics,86426.09,3,30.0,181494.78,62679.13,Net Banking,2024-12-09,,Delivered
+ORD0063,CUST061,Diya Singh,35.0,Female,Pune,Maharashtra,PRD003,Jacket,Clothing,free,1,15.0,5713.92,1010.38,Debit Card,2024-08-13,2024-08-16,Returned
+ORD0064,CUST009,Kunal Reddy,42.0,Female,Pune,Maharashtra,PRD059,Face Wash,Beauty,2488.05,3,30.0,5224.9,1518.96,Credit Card,24/11/2024,2024-12-01,Delivered
+ORD0065,CUST186,Aditya Reddy,57.0,Female,Kolkata,West Bengal,PRD077,Vacuum Cleaner,Home & Kitchen,17303.19,5,15.0,73538.55,12849.78,Net Banking,2025/13/40,2024/06/28,Delivered
+ORD0066,CUST045,Diya Das,49.0,Male,Chennai,Tamil Nadu,PRD030,Cookware,Home & Kitchen,6500.17,3,20.0,15600.4,-184.08,Credit Card,?,2024-12-20,Delivered
+ORD0067,CUST070,Ishaan Das,58.0,Other,Mumbai,Maharashtra,PRD063,Hair Oil,home and kitchen,1447.06,4,110%,5788.23,1574.58,Cash on Delivery,2025-06-07,2025-06-08,Delivered
+ORD0068,CUST120,Pooja Verma,31.0,Other,Kolkata,West Bengal,PRD029,Hair Oil,Beauty,523.28,2,15.0,889.58,-49.01,Cash on Delivery,2024-10-04,2024-10-11,Delivered
+ORD0069,CUST004,Sahil Singh,30.0,Female,Bengaluru,Karnataka,PRD015,Cookware, Home & Kitchen ,9735.55,2,5%,18497.55,2246.93,Net Banking,2025-01-15,2025-01-18,Cancelled
+ORD0070,CUST084,Kabir Singh,22.0,Other,Bengaluru,Karnataka,PRD001,Data Science Book,Books,₹504.99,5,30.0,1767.45,510.2,Credit Card,2025-11-17,2025/13/40,Delivered
+ORD0071,CUST079,Riya Verma,24.0,Female,Chennai,Tamil Nadu,PRD064,Hoodie,Clothing,"₹2,895.42",1,25.0,2171.57,551.44,Cash on Delivery,2024-06-11,2024-06-12,Cancelled
+ORD0072,CUST117,Vivaan Reddy,25.0,Male,Ahmedabad,Gujarat,PRD077,Data Science Book,Books,731.72,1,5.0,695.13,139.13,UPI,2025-07-11,31/02/2025,Cancelled
+ORD0073,CUST080,Aarav Das,57.0,Male,Mumbai,Maharashtra,PRD002,Jacket,Home and Kitchen ,6400.82,4,30.0,17922.3,-50000,UPI,2024-10-27,2024-11-01,DELIVERED
+ORD0074,CUST104,Priya Singh,23.0,Female,Delhi,Delhi,PRD073,Face Wash,Beauty,4042.82,2,0.0,8085.63,1683.96,UPI,2025-08-11,2025-08-12,Delivered
+ORD0075,CUST188,Diya Verma,29.0,Male,hyderabad,Telangana,PRD013,Shoes,Clothing,3648.59,2,15.0,6202.6,-387.51,UPI,2024-11-13,2024-11-18,Cancelled
+ORD0076,CUST056,Ananya Singh,45.0,Male,Bengaluru,Karnataka,PRD035,Jacket,Clothing,6166.91,2,20.0,9867.06,620.59,Net Banking,2025-07-20,2025.07.15,Cancelled
+ORD0077,CUST164,Vivaan Patel,19.0,female,Bombay,Tamil Nadu,PRD036,Smartwatch,Electronics,68901.93,10000,25.0,103352.9,17449.11,Wallet,2025-12-25,2025-12-30,Pending
+ORD0078,CUST001,Unknown,54.0,Female,Mumbai,Maharashtra,PRD041,Table Lamp,Home & Kitchen,16046.91,4,30.0,44931.36,-122.94,Wallet,2024-07-04,2024-07-11,Returned
+ORD0079,CUST045,-,20.0,Male,Hyderabad,Telangana,PRD080,Face Wash,Beauty,3352.34,1,20.0,2681.87,-50000,Credit Card,2024-03-24,2024-03-28,return
+ORD0080,CUST165,Sahil Sharma,999,Male,Mumbai,Maharashtra,PRD079,Python Book,Books,994.24,3,unknown,2386.17,490.21,Wallet,2024-09-13,2024-09-16,Delivered
+ORD0081,CUST179,Riya Das,150,Other,Bengaluru,Karnataka,PRD043,Moisturizer,Beauty,2370.56,5,0.0,11852.78,-421.69,Wallet,2024-11-29,2024-11-30,Delivered
+ORD0082,CUST124,Aanya Verma,38.0,Male,delhi,Delhi,PRD008,Hoodie,Clothing,3891.25,5,0.0,19456.23,-999999,Net Banking,03/07/2024,2024-07-07,Returned
+ORD0083,CUST046,Arjun Sharma,18.0,Male,Pune,Maharashtra,PRD080,T-Shirt,Clothing,613.85,1,0.0,613.85,196.62,Wallet,2024-11-06,2024-11-16,Cancelled
+ORD0084,CUST203,Arjun Verma,55.0,M,Ahmedabad,Gujarat,PRD019,Face Wash,Beauty,4968.02,5,-,19872.07,3255.38,Wallet,2025/13/40,2025-08-27,Delivered
+ORD0085,CUST147,Aarav Sharma,,Male, Mumbai ,Maharashtra,PRD044,Face Wash,electronics,1758.01,4,500%,5977.24,969.98,Wallet,2024-10-05,2024-10-08,Delivered
+ORD0086,CUST044,Arjun Mehta,23.0,Female,Bengaluru,Karnataka,PRD043,Chair,Home & Kitchen,22915.95,?,10.0,103121.76,17476.47,Net Banking,2024-01-03,2024-01-07,Cancelled
+ORD0087,CUST027,Kunal Singh,25.0,Male,Kolkata,West Bengal,PRD036,Vacuum Cleaner,Home and Kitchen,"Rs. 5,491",5,15.0,23336.09,3382.02,Wallet,2024-05-03,2024/05/13,Delivered
+ORD0088,CUST036,Arjun Kumar,24.0,Female,Mumbai,Maharashtra,PRD044,Tablet,Electronics,"₹50,843.45",1,15.0,43216.93,1310.42,Net Banking,2025-10-05,2025-10-11,Delivered
+ORD0089,CUST154,Rohan Patel,41.0,Female,Kolkata,West Bengal,PRD060,Vacuum Cleaner,Home & Kitchen,16412.52,2,30.0,22977.53,1653.72,Credit Card,2024-04-27,2024-05-01,Delivered
+ORD0090,CUST160,Priya Das,26.0,Male,mumbai,Maharashtra,PRD057,Cookware,Home & Kitchen,21665.97,5,15.0,99999999,-50000,Wallet,2025-03-14,2025/03/18,Delivered
+ORD0091,CUST032,Ishaan Patel,57.0,Female,Mumbai,Maharashtra,PRD036,Vacuum Cleaner,Home & Kitchen,17526.2,3,15.0,44691.81,2905.31,Debit Card,2025-10-19,2025-10-22,Returned
+ORD0092,CUST067,Sneha Das,,Male,Ahmedabad,Gujarat,PRD002,Headphones,Electronics,13692.76,5,10.0,61617.4,10777.45,Cash on Delivery,2024-03-10,2024-03-13,Delivered
+ORD0093,CUST158,Neha Sharma,33.0,Female,N/A,Tamil Nadu,PRD003,Headphones,Electronics,35352.7,1,5.0,33585.07,3226.7,Wallet,2024-12-19,2024-12-22,Cancelled
+ORD0094,CUST016,Sneha Kumar,51.0,Male,Kolkata,West Bengal,PRD036,Novel,Books,free,2,20.0,2765.06,806.89,cash on delivery,2024-04-13,2024-04-14,Pending
+ORD0095,CUST150,Priya Kumar,54.0,Male,Mumbai,Maharashtra,PRD012,Shampoo,Home and Kitchen ,free,4,25.0,7039.72,-73.5,UPI,2024-12-26,2024-12-28,Delivered
+ORD0096,CUST163,Pooja Patel,35.0,Female,Chennai,Tamil Nadu,PRD025,Hoodie,Clothing,5738.52,5,0.0,28692.58,-397.96,Credit Card,2024-06-06,2024-06-12,Delivered
+ORD0097,CUST149,Vivaan Patel,42.0,Male,Pune,Maharashtra,PRD045,Smartwatch,Electronics,57712.74,1,20.0,46170.19,-1276.25,Cash on Delivery,2024-04-04,2024-04-08,Delivered
+ORD0098,CUST005,Vivaan Das,42.0,Male,Ahmedabad,Gujarat,PRD011,Notebook,Books,657.69,4,,2367.68,204.04,Credit Card,2025-06-26,2025-06-30,Cancelled
+ORD0099,CUST103,Arjun Kumar,56.0,M,,West Bengal,PRD063,Headphones,Electronics,72181.08,4,30.0,202107.01,54570.35,Wallet,2024-04-08,2024-04-09,delivered
+ORD0100,CUST167,Rohan Sharma,30.0,Male,Bengaluru,Karnataka,PRD053,Cookware,Home & Kitchen,6740.5,5,20.0,26962.0,-567.36,Credit Card,2025-06-09,2025-06-11,Cancelled
+ORD0101,CUST180,Kabir Das,twenty five,Female,Pune,Maharashtra,PRD064,Python Book,Books,"Rs. 1,297",4,110%,4929.99,987.16,UPI,2025-05-11,15-05-2025,Delivered
+ORD0102,CUST177,Kunal Sharma,40.0,Female,Delhi,Delhi,PRD069,Smartphone,Electronics,30908.15,2,10.0,55634.67,6317.51,Cash on Delivery,2025-07-25,2025-07-26,Delivered
+ORD0103,CUST139,Kunal Singh,25 years,Female,Kolkata,West Bengal,PRD051,Hair Oil,Beauty,4791.21,5,10.0,21560.43,2557.87,Debit Card,2024-07-18,2024-07-20,Delivered
+ORD0104,CUST068,Riya Nair,58.0,Female,Pune,Maharashtra,PRD062,Shampoo,Beauty,4884.76,2,0.0,9769.51,291.4,Credit Card,2025-07-03,2025-07-05,Delivered
+ORD0105,CUST183,Ananya Nair,150,Male,Pune,Maharashtra,PRD022,Exam Guide,Books,"₹1,598.77",2,10.0,2877.79,918.23,Cash on Delivery,2025-05-02,2025-05-04,Returned
+ORD0106,CUST141,Aanya Reddy,63.0,Female,hyderabad,Telangana,PRD075,Moisturizer,Beauty,4420.49,unknown,30.0,12377.37,352.31,Wallet,2024-10-14,2024-10-18,Returned
+ORD0107,CUST189,Aarav Reddy,20.0,Male,Bombay,Karnataka,PRD019,Smartwatch,Electronic,64194.44,4,20.0,205422.2,31462.87,Net Banking,2025-04-10,2025-04-12,Returned
+ORD0108,CUST106,Vivaan Nair,27.0,Female,Kolkata,West Bengal,PRD046,Python Book,Books,1893.02,4,0.0,7572.09,701.5,upi,2024-05-07,2024-05-10,Delivered
+ORD0109,CUST144,Kabir Reddy,36.0,Other,mumbai,Maharashtra,PRD004,Tablet,Electronics,8428.83,2,20.0,13486.13,2855.05,Net Banking,2025-01-27,2025-01-31,Delivered
+ORD0110,CUST071,Arjun Singh,41.0,Male,Hyderabad,Telangana,PRD058,Jacket,Clothing,"₹5,021.52",1,10.0,4519.37,420.3,Cash on Delivery,2024-06-02,2024-06-05,Delivered
+ORD0111,CUST192,Neha Patel,47.0,Male,Ahmedabad,Gujarat,PRD055,Jeans,Clothing,4637.19,2,20.0,7419.5,1922.43,UPI,2024-06-07,2024-06-08,Delivered
+ORD0112,CUST124,Priya Mehta,26.0,Female,Kolkata,West Bengal,PRD069,Python Book,Books,1139.93,3,20.0,2735.84,947.1,UPI,2025-04-20,2025-04-25,Delivered
+ORD0113,CUST069,Rohan Patel,38.0,Male,Pune,Maharashtra,PRD005,Jeans,Clothing,2274.96,2,25.0,3412.44,57.95,Cash on Delivery,2025-09-10,11-09-2025,Returned
+ORD0114,CUST158,Sneha Das,47.0,Male,Mumbai,Maharashtra,PRD007,Data Science Book,Books,458.67,4,20.0,1467.75,486.33,Debit Card,2025-10-02,2025/10/07,Pending
+ORD0115,CUST219,Ishaan Kumar,32.0,Male,Hyderabad,Telangana,PRD075,Jeans,Clothing,3.7k,1,10.0,3302.29,183.38,Cash on Delivery,2025-12-29,2026-01-03,Pending
+ORD0116,CUST115,Sneha Nair,58.0,Male,Ahmedabad,Gujarat,PRD068,Shampoo,Beauty,3340.04,2,5.0,6346.07,415.37,Credit Card,2025-10-27,2025-10-30,Delivered
+ORD0117,CUST002,Neha Nair,19.0,Male,Kolkata,West Bengal,PRD016,Laptop,Electronics,"₹78,531.45",2,15.0,133503.47,"₹-1,163.74",Debit Card,2025-10-25,2025-10-27,Cancelled
+ORD0118,CUST120,Aanya Gupta,32.0,Female,Kolkata,West Bengal,PRD014,Exam Guide,Books,757.76,4,20.0,2424.83,347.57,Debit Card,2025-07-24,28-07-2025,Cancelled
+ORD0119,CUST089,Pooja Singh,22.0,Other,Delhi,Delhi,PRD012,Shoes,Clothing,1111.99,3,0.0,3335.96,675.25,Credit Card,2024-01-26,2024/01/30,Delivered
+ORD0120,CUST080,Aditya Singh,44.0,Male,Hyderabad,Telangana,PRD040,Smartwatch,Electronics,73428.96,4,15.0,249658.47,-2148.37,Wallet,2025-04-29,2025-05-03,Delivered
+ORD0121,CUST021,Rahul Verma,21.0,Other,Hyderabad,Telangana,PRD059,Tablet,Electronics,44106.52,1,None,39695.87,13622.33,Debit Card,2025-11-18,2025-11-20,Cancelled
+ORD0122,CUST060,-,28.0,Female,Mumbai,Delhi,PRD073,Mixer,Home & Kitchen,18475.36,4,30.0,"₹51,731.02",-1674.96,Net Banking,2024-07-14,2024-07-19,Delivered
+ORD0123,CUST058,Priya Nair,40.0,Female,Chennai,Tamil Nadu,PRD022,Cookware,home & kitchen,2818.46,2,10.0,5073.23,576.58,UPI,2025-04-20,31/02/2025,Cancelled
+ORD0124,CUST087,Aditya Patel,42.0,Male,Hyderabad,Telangana,PRD015,Table Lamp,Home & Kitchen,17377.75,1,20.0,13902.2,4816.41,Net Banking,2024-10-15,2024-10-17,Delivered
+ORD0125,CUST151,Vivaan Reddy,63.0,Male, Delhi ,Delhi,PRD072,Hair Oil,Beauty,4514.47,3,30.0,9480.38,1975.85,Wallet,2024-10-28,2024/11/02,Delivered
+ORD0126,CUST212,Rahul Mehta,31.0,Female,Bengaluru,Karnataka,PRD019,Cookware, Home & Kitchen ,3797.13,3,20.0,9113.11,2425.09,Cash on Delivery,2024-10-07,2024-10-10,Returned
+ORD0127,CUST041,Arjun Patel,45.0,FEMALE,Ahmedabad,Gujarat,PRD041,Hair Oil,Beauty,3072.12,3,5.0,8755.53,2048.85,Net Banking,2025-11-06,2025-11-08,Returned
+ORD0128,CUST068,Aditya Sharma,51.0,Female,Delhi,Delhi,PRD065,Novel,Books,667.53,5,0.0,3337.65,1038.47,Net Banking,2025-07-29,2025-08-03,Pending
+ORD0129,CUST055,Ishaan Patel,39.0,Female,Kolkata,West Bengal,PRD067,Exam Guide,Books,1576.66,4,20.0,"₹5,045.31",983.99,Wallet,2024-06-22,2024-06-27,Delivered
+ORD0130,CUST106,Aarav Nair,46.0,Male,Mumbai,Maharashtra,PRD040,Jacket,Clothing,961.06,2,30.0,1345.48,30.55,Wallet,2024-12-26,2024-12-30,Delivered
+ORD0131,CUST192,Diya Kumar,58.0,Male,Ahmedabad,Gujarat,PRD037,Moisturizer,Beauty,718.52,2,10.0,1293.34,140.42,UPI,2025-11-19,2025-11-23,Delivered
+ORD0132,CUST076,Aanya Reddy,62.0,Female,Delhi,Delhi,PRD033,Perfume,Beauty,₹831.15,5,10.0,3740.16,379.2,Net Banking,2025-07-24,2025-07-28,Delivered
+ORD0133,CUST161,Arjun Verma,54.0,Male,Kolkata,West Bengal,PRD028,Data Science Book,Books,289.88,2,5.0,550.78,113.5,Cash on Delivery,2025-03-28,2025-03-29,Delivered
+ORD0134,CUST039,Aditya Patel,23.0,Male,Delhi,Delhi,PRD002,Data Science Book,Books,2236.89,2,0.0,4473.78,₹-135.26,Net Banking,2025-10-16,2025-10-21,Returned
+ORD0135,CUST028,Priya Verma,53.0,Female,Bengaluru,Karnataka,PRD073,T-Shirt,Clothing,4251.8,1,20.0,3401.44,681.94,Net Banking,2024-09-24,2024-09-27,Returned
+ORD0136,CUST161,Ishaan Verma,45.0,Male,Mumbai,Maharashtra,PRD068,Exam Guide,Books,2240.68,3,15.0,5713.74,1276.46,upi,2025-03-26,2025-03-30,Delivered
+ORD0137,CUST162,Neha Patel,29.0,Female,delhi,Delhi,PRD031,Novel,Books,2010.54,1,20.0,99999999,290.3,Cash on Delivery,2025-10-30,2025-11-03,Delivered
+ORD0138,CUST059,Kunal Gupta,47.0,Male,Pune,Maharashtra,PRD037,Hoodie,Clothing,1382.63,3,5.0,3940.49,-275.67,COD,2025-01-10,2025-01-20,Delivered
+ORD0139,CUST141,Vivaan Kumar,40.0,Male,Pune,Maharashtra,PRD042,Cookware,Home & Kitchen,free,4,30.0,28460.35,3571.42,Credit Card,2024-07-19,2024-08-03,Cancelled
+ORD0140,CUST139,Arjun Singh,34.0,male,,Karnataka,PRD024,T-Shirt,Clothing,6781.71,5,10.0,30517.71,5776.42,Credit Card,2024-12-06,2024-12-09,Delivered
+ORD0141,CUST139,Ishaan Gupta,34.0,Female,Pune,Maharashtra,PRD041,Moisturizer,Beauty,3666.29,5,10.0,16498.29,-1050.41,Wallet,2025-05-31,2025-06-04,Delivered
+ORD0142,CUST143,Priya Nair,34.0,Female,Hyderabad,Telangana,PRD078,Headphones,Electronics,15681.14,3,5.0,44691.24,11064.36,Debit Card,2024-05-26,2024-05-30,Delivered
+ORD0143,CUST069,Rahul Mehta,33.0,Female,Hyderabad,Telangana,PRD022,Cookware,Home & Kitchen,776.98,3,10.0,2097.84,63.15,Net Banking,2024-12-30,2025-01-03,Returned
+ORD0144,CUST113,Aanya Mehta,47.0,Male,Bengaluru,Karnataka,PRD065,Chair,Home & Kitchen,7473.86,3,30.0,15695.12,3312.19,Cash on Delivery,2024-11-15,2024-11-18,Delivered
+ORD0145,CUST004,Kabir Singh,25.0,Male,Pune,Maharashtra,PRD060,Tablet, Electronics ,71051.67,1,20.0,56841.33,2304.56,Net Banking,2024-05-20,2024-05-25,Cancelled
+ORD0146,CUST184,Kunal Verma,56.0,Male,Ahmedabad,Gujarat,PRD078,Hoodie,Clothing,4931.37,4,0.0,19725.46,4445.08,upi,2025-07-26,2025-07-28,Pending
+ORD0147,CUST074,Diya Patel,25.0,Female,Bengaluru,Karnataka,PRD020,Hair Oil,Beauty,3846.13,1,20.0,3076.91,900.86,Credit Card,2024-11-16,2024-11-20,Returned
+ORD0148,CUST075,Ananya Sharma,32.0,Male,Mumbai,Maharashtra,PRD026,Exam Guide,Books,1972.06,2,0.0,3944.13,752.18,Credit Card,2024-02-22,2024-02-28,Returned
+ORD0149,CUST082,Kunal Singh,30.0,Male,Chennai,Tamil Nadu,PRD070,Smartphone,Electronics,68754.13,3,25.0,154696.8,25660.79,Cash on Delivery,2025-01-24,2025-01-27,Delivered
+ORD0150,CUST001,Rakesh S.,21.0,Female,Pune,Maharashtra,PRD073,Smartphone,Electronics,39787.2,5,25.0,149202.01,₹-207.82,Net Banking,2025-04-15,2025-04-19,Delivered
+ORD0151,CUST105,Ishaan Nair,30.0,Male,Bengaluru,Karnataka,PRD013,Cookware,Home & Kitchen,12859.75,2,500%,21861.57,5496.78,Cash on Delivery,2024-10-19,2024-10-20,Pending
+ORD0152,CUST172,Aanya Kumar,18.0,Female,Mumbai,Maharashtra,PRD013,Laptop,Electronics,80172.85,4,20.0,256553.13,14295.08,UPI,06-14-2024,2024-06-18,Delivered
+ORD0153,CUST102,Sahil Kumar,?,Female,Chennai,Tamil Nadu,PRD025,Hoodie,Clothing,2072.28,2,0.0,4144.56,980.46,Cash on Delivery,2024-02-13,2024-02-15,Delivered
+ORD0154,CUST165,Kabir Mehta,49.0,Male,Hyderabad,Telangana,PRD025,T-Shirt,Clothing,3888.42,3,10.0,"₹10,498.75",820.22,UPI,2024-04-28,2024-05-03,Pending
+ORD0155,CUST200,Rahul Kumar,21.0,Female,Mumbai,Maharashtra,PRD029,Python Book,Books,2216.25,3,25.0,4986.56,900.79,UPI,2025-09-29,2025-10-03,Cancelled
+ORD0156,CUST028,Ananya Sharma,43.0,Male,Mumbai,Maharashtra,PRD057,Shoes,Clothing,875.99,4,15.0,2978.36,994.74,Credit Card,2024-07-23,2024-07-28,Delivered
+ORD0157,CUST182,Kunal Nair,63.0,Male,Mumbai,Maharashtra,PRD005,Vacuum Cleaner,Home & Kitchen,free,1,30.0,7092.7,461.42,Cash on Delivery,2024-12-04,2024-12-06,Delivered
+ORD0158,CUST003,Kabir Reddy,61.0,Female,Delhi,Delhi,PRD033,Mixer,Home and Kitchen ,17214.77,2,15.0,29265.12,-72.21,upi,2025-02-25,2025-03-01,Delivered
+ORD0159,CUST018,,35.0,Other,Pune,Maharashtra,PRD004,Jacket,Clothing,4637.5,1,5.0,4405.63,517.02,Cash on Delivery,2025-10-29,2025-11-03,Delivered
+ORD0160,CUST039,Sahil Patel,41.0,Female,Pune,Maharashtra,PRD044,Vacuum Cleaner,Home & Kitchen,24199.38,4,5.0,91957.64,17974.46,UPI,2024-12-19,2024-12-24,Cancelled
+ORD0161,CUST093,Aditya Das,53.0,Male,Bengaluru,Maharashtra,PRD027,Notebook,Books,568.04,3,5.0,1618.91,41.6,Credit Card,2025-05-26,2025-05-30,Delivered
+ORD0162,CUST212,Pooja Patel,18.0,M,Delhi,Delhi,PRD058,Tablet,Electronics,40181.57,1,0%,32145.26,897.84,Credit Card,2024-11-22,2024-11-25,Cancelled
+ORD0163,CUST056,Aditya Das,36.0,Male,Hyderabad,Telangana,PRD071,Data Science Book,Books,2186.91,5,10.0,9841.1,2255.96,upi,2024-11-10,2024-11-12,Cancelled
+ORD0164,CUST001,Unknown,54.0,Male,Pune,Maharashtra,PRD024,Data Science Book,Books,929.18,4,15.0,"₹3,159.20",242.22,Debit Card,2024-03-24,2024-03-28,Pending
+ORD0165,CUST062,Ananya Nair,23.0,Male,Pune,Maharashtra,PRD010,Data Science Book,Books,256.7,5,0.0,1283.49,-32.11,Wallet,2025-06-19,2025-06-22,Cancelled
+ORD0166,CUST030,Rohan Nair,65.0,Female,Pune,Maharashtra,PRD078,Novel,Books,1708.16,5,20.0,6832.64,1244.51,UPI,2025-01-18,2025-01-19,Returned
+ORD0167,CUST009,Sahil Das,39.0,Male,Ahmedabad,Gujarat,PRD068,Cookware,Home & Kitchen,4335.32,2,20.0,6936.5,-55.85,Cash on Delivery,2025-07-04,2025-07-06,Pending
+ORD0168,CUST122,Ishaan Nair,34.0,Male, Delhi ,Delhi,PRD041,Vacuum Cleaner,Home & Kitchen,24329.81,3,25.0,54742.06,-1506.88,Net Banking,2024-04-11,2024-04-16,Delivered
+ORD0169,CUST096,Arjun Verma,,Female,Pune,Maharashtra,PRD035,Exam Guide,Books,2375.66,3,15.0,6057.94,835.2,Wallet,2024-09-01,2024-09-07,Delivered
+ORD0170,CUST064,Aditya Singh,29.0,male,Delhi,Delhi,PRD043,Hoodie,home and kitchen,"₹4,051.80",3,-,10332.08,-300.13,Credit Card,2025-12-28,2026-01-02,Delivered
+ORD0171,CUST210,Neha Reddy,50.0,Female,Hyderabad,Telangana,PRD053,Exam Guide,Books,885.23,2,25.0,1327.84,411.12,Debit Card,2025.07.15,2024-06-02,Cancelled
+ORD0172,CUST194,Kunal Mehta,21.0,Other,Bengaluru,Karnataka,PRD054,Python Book,Books,986.26,1,20.0,789.01,49.67,Wallet,2024-04-06,2024-04-09,Pending
+ORD0173,CUST062,Ananya Gupta,35.0,Female, Bengaluru ,Karnataka,PRD041,Moisturizer,Electronic,4890.1,2,30.0,6846.14,-214.14,UPI,2024-01-29,2024-02-01,delivered
+ORD0174,CUST020,Ananya Kumar,37.0,Female, Delhi ,Delhi,PRD066,Novel,Books,1693 INR,3,15.0,4318.11,-25.88,Wallet,2025-01-21,2025-01-23,Cancelled
+ORD0175,CUST053,Kunal Kumar,65.0,Male,Mumbai,Maharashtra,PRD022,Table Lamp,Home & Kitchen,7287.64,1,0.0,7287.64,824.28,Cash on Delivery,2024-03-13,2024-03-18,Delivered
+ORD0176,CUST032,Kabir Kumar,34.0,Female,Chennai,Tamil Nadu,PRD027,Tablet,Electronics,39620.31,1,,29715.23,31.87,Wallet,2024-10-10,2024-10-14,Delivered
+ORD0177,CUST170,Pooja Patel,62.0,Male,Bengaluru,Karnataka,PRD023,Novel,Books,1850.1,4,15.0,6290.35,1221.62,Cash on Delivery,2024-12-06,2024-12-13,Pending
+ORD0178,CUST138,Pooja Kumar,36.0,F,Ahmedabad,Gujarat,PRD063,Laptop,Electronics,28299.9,3,15.0,72164.75,5776.51,Net Banking,2024-12-31,2025-01-03,Returned
+ORD0179,CUST037,Ananya Verma,38.0,Male,bengaluru,Karnataka,PRD058,T-Shirt,Clothing,2912.23,1,25.0,2184.18,684.87,Debit Card,08-25-2025,2025-08-29,Delivered
+ORD0180,CUST135,Priya Kumar,41.0,Female,Hyderabad,Telangana,PRD079,Shoes,Clothing,916.04,1,5.0,870.24,151.25,UPI,2025-09-17,2025-09-21,return
+ORD0181,CUST035,Arjun Gupta,18.0,Male,Bengaluru,Karnataka,PRD060,T-Shirt,Clothing,3856.76,3,25%,8677.71,1862.3,Debit Card,2025-01-19,2025-01-26,Delivered
+ORD0182,CUST058,Ishaan Sharma,38.0,Female,Kolkata,West Bengal,PRD006,Tablet,Electronics,75941.56,4,15.0,258201.3,20814.56,Debit Card,2024-03-01,2024-03-04,Cancelled
+ORD0183,CUST116,Kunal Mehta,62.0,Male,Bengaluru,Karnataka,PRD066,Tablet,ELEC,36272.08,5,10.0,163224.34,37611.72,Net Banking,2025-03-01,08-03-2025,Returned
+ORD0184,CUST011,Riya Mehta,64.0,Male,Bengaluru,Telangana,PRD019,T-Shirt,Clothing,6290.56,4,,25162.24,279.67,Wallet,2025-02-17,2025-02-18,Pending
+ORD0185,CUST129,Vivaan Sharma,46.0,Male,Chennai,Tamil Nadu,PRD026,Novel,Books,1117.88,5,15.0,4751.0,461.52,UPI,2025-05-23,2025-05-26,Pending
+ORD0186,CUST117,Priya Das,33.0,Male,Pune,Maharashtra,PRD028,Shampoo,Beauty,4315.08,3,,11003.46,1772.57,UPI,10-31-2024,2024-11-05,Delivered
+ORD0187,CUST057,Aanya Verma,65.0,Male,Pune,Maharashtra,PRD008,Laptop,Electronics,"₹31,411.72",3,0.0,94235.16,9064.28,Wallet,2025-05-13,2025-05-15,Returned
+ORD0188,CUST083,Aditya Kumar,,Male,Hyderabad,Telangana,PRD059,Smartwatch,Electronics,61162.08,5,15.0,259938.83,15102.37,Wallet,2024-11-30,2024-12-01,Delivered
+ORD0189,CUST048,Arjun Reddy,26.0,Female,Bengaluru,Karnataka,PRD045,Exam Guide,Books,2129.46,4,0.0,8517.86,-301.69,Wallet,2024-05-01,2024-05-04,Returned
+ORD0190,CUST131,Arjun Das,54.0,Female,Ahmedabad,Gujarat,PRD062,Shoes,Clothing,5136.03,5,5.0,24396.16,757.24,Credit Card,2025-12-21,2025-12-22,Delivered
+ORD0191,CUST080,Sahil Das,19.0,Male,Bombay,Maharashtra,PRD023,Hair Oil,Beauty,2.2k,4,20.0,7165.71,1724.6,Credit Card,2024-09-23,2024-09-26,Returned
+ORD0192,CUST001,Unknown,32.0,Female,Ahmedabad,Gujarat,PRD023,Laptop,Electronics,69355.09,5,25 %,277420.37,76074.21,Wallet,2024-08-26,2024-08-30,Delivered
+ORD0193,CUST176,Kabir Nair,63.0,Female,Mumbai,Maharashtra,PRD029,Moisturizer,Beauty,4464.63,5,15.0,18974.67,5483.52,Net Banking,2024-07-22,2024-07-24,Returned
+ORD0194,CUST163,Kunal Sharma,52.0,Male, Mumbai ,Maharashtra,PRD059,Jacket,Clothing,5873.24,5,25.0,22024.64,7686.16,Net Banking,2024-06-30,2024-07-05,Delivered
+ORD0195,CUST197,Diya Singh,42.0,Male,,Tamil Nadu,PRD029,Cookware,Home & Kitchen,22973.46,3,0.0,68920.38,22296.98,Debit Card,2024-10-30,2024-11-02,Delivered
+ORD0196,CUST050,Arjun Kumar,59.0,Female,Mumbai,Maharashtra,PRD025,Hoodie,Clothing,6533.18,3,10.0,17639.6,1949.45,Wallet,2025-10-26,2025-10-28,Delivered
+ORD0197,CUST083,Aarav Mehta,21.0,Male,Ahmedabad,Gujarat,PRD076,Vacuum Cleaner,electronics,4766.78,1,15.0,4051.76,155.48,Wallet,2024-06-03,2024-06-08,Returned
+ORD0198,CUST184,Rahul Verma,54.0,Female,Mumbai,Maharashtra,PRD066,Tablet,Electronics,9569.88,4,30.0,26795.66,4031.46,Cash on Delivery,2025-03-05,2025-03-07,Returned
+ORD0199,CUST184,Neha Gupta,40.0,Male,NA,Maharashtra,PRD073,Cookware,Home & Kitchen,22950.84,3,5.0,65409.88,19040.07,upi,2024-05-29,2024-06-03,Delivered
+ORD0200,CUST064,Diya Singh,63.0,Male, Hyderabad ,Telangana,PRD050,Shampoo,Beauty,1809.34,5,30.0,6332.69,1718.05,Cash on Delivery,2025-04-09,2025-04-13,Delivered
+ORD0201,CUST110,Aanya Reddy,27.0,FEMALE,Mumbai,Maharashtra,PRD049,Cookware,Home & Kitchen,4278.8,4,10.0,15403.67,4055.26,Cash on Delivery,2024-02-19,2024-02-22,Cancelled
+ORD0202,CUST197,Kabir Das,57.0,Male,Pune,Maharashtra,PRD024,Notebook,Books,787.71,3,15.0,2008.66,533.57,Debit Card,2024-03-26,2024-04-02,Delivered
+ORD0203,CUST204,Aanya Sharma,32.0,Male,Ahmedabad,Gujarat,PRD079,Python Book,Books,1133.73,5,10.0,5101.77,792.37,Net Banking,2024-03-05,2024-03-09,Delivered
+ORD0204,CUST183,Ishaan Patel,42.0,Female,Ahmedabad,Gujarat,PRD013,Smartwatch,Electronics,48130.19,1,25.0,36097.64,3426.61,Net Banking,2024-08-05,,Delivered
+ORD0205,CUST220,Aditya Singh,62.0,male,Delhi,Delhi,PRD080,Perfume,Beauty,1986.43,3,0.0,5959.29,986.13,Wallet,2025-08-11,2025-08-15,Cancelled
+ORD0206,CUST084,Ishaan Kumar,21.0,Male,Chennai,Tamil Nadu,PRD042,Headphones,Electronics,35673.39,1,5.0,33889.72,4867.64,Credit Card,2025-01-21,2025-01-28,Delivered
+ORD0207,CUST059,Kunal Mehta,54.0,Male,Hyderabad,Telangana,PRD061,Notebook,Books,"₹1,292.41",5,30.0,4523.42,824.51,Credit Card,2024/12/02,2024-12-04,Returned
+ORD0208,CUST201,Diya Gupta,40.0,Female,Mumbai,Maharashtra,PRD030,Tablet,Electronics,66065.99,1,15.0,56156.09,10361.11,UPI,30/08/2025,2025-09-02,Delivered
+ORD0209,CUST012,,59.0,Male,Hyderabad,Telangana,PRD011,Laptop,Electronics,44821.18,1,5.0,42580.12,,Debit Card,2024-02-13,2024-02-14,Pending
+ORD0210,CUST088,Sahil Gupta,19.0,Female,Delhi,Delhi,PRD028,Smartphone,Electronics,"₹84,189.87",1,10.0,75770.88,7576.36,Debit Card,2025-12-25,2025-12-29,Delivered
+ORD0211,CUST188,Riya Singh,52.0,Male,Chennai,Tamil Nadu,PRD056,Cookware,Home & Kitchen,7442.39,4,20.0,23815.65,3655.68,Debit Card,2025-07-03,2025-07-13,Delivered
+ORD0212,CUST025,Vivaan Singh,41.0,Male,Delhi,Delhi,PRD073,Jeans,Clothing,2921.31,4,10.0,10516.71,702.65,Credit Card,2025-08-31,2025-09-07,Delivered
+ORD0213,CUST178,Sneha Mehta,21.0,Male,Ahmedabad,Gujarat,PRD055,Jacket,Clothing,₹861.44,2,20.0,1378.3,397.14,UPI,2024-05-31,2024-06-06,Returned
+ORD0214,CUST180,Kunal Nair,38.0,Female,Delhi,Delhi,PRD005,Jacket,Clothing,"₹5,846.22",5,15.0,99999999,1216.86,Wallet,2025-01-12,2025-01-16,Delivered
+ORD0215,CUST203,Rohan Das,62.0,Male,Bengaluru,Karnataka,PRD037,Exam Guide,Books,2261.21,1,30.0,1582.85,-70.32,Debit Card,2024-03-31,2024-04-07, Delivered 
+ORD0216,CUST192,Ananya Mehta,48.0,Female,Chennai,Tamil Nadu,PRD056,Hair Oil,Beauty,1270.7,2,20.0,2033.12,491.42,Credit Card,2025-08-07,2025-08-14,Pending
+ORD0217,CUST166,Aditya Reddy,64.0,Male,Kolkata,West Bengal,PRD013,Python Book,Books,474.03,2,25.0,711.05,194.04,UPI,2025-08-10,2025-08-14,Returned
+ORD0218,CUST058,Sahil Mehta,42.0,Female,Delhi,Delhi,PRD047,Perfume,Home and Kitchen ,1523.64,3,0.0,4570.91,969.29,Net Banking,2024-12-31,2025-01-02,Delivered
+ORD0219,CUST163,Arjun Singh,49.0,Female,Hyderabad,Telangana,PRD044,Chair,Home & Kitchen,6142.78,unknown,0.0,"₹18,428.33",4019.85,Net Banking,25/05/2024,2024-05-28,Cancelled
+ORD0220,CUST144,Arjun Das,45.0,Female,Delhi,Delhi,PRD066,Chair,Home & Kitchen,13768.13,4,15.0,46811.63,-3158.07,Debit Card,2024-03-05,2024-03-08,Returned
+ORD0221,CUST114,Rohan Gupta,46.0,Male,Ahmedabad,Gujarat,PRD043,Mixer,Home & Kitchen,22969.02,3,0.0,68907.06,3815.74,Wallet,2025-05-01,2025-05-03,Cancelled
+ORD0222,CUST112,Aditya Das,28.0,Female,Kolkata,West Bengal,PRD004,Shampoo,Beauty,2827.86,1,10.0,2545.08,423.52,Cash on Delivery,2025-05-08,2025-05-10,Delivered
+ORD0223,CUST076,Riya Sharma,35.0,Male,Unknown,Delhi,PRD073,Vacuum Cleaner,Home & Kitchen,10425.16,3,20.0,25020.38,8731.56,cash on delivery,2025-02-19,2025-02-24,Delivered
+ORD0224,CUST119,Ananya Nair,31.0,Male,Pune,Maharashtra,PRD048,Moisturizer,Beauty,4026.61,2,0.0,8053.23,717.02,Credit Card,2024-09-12,2024-09-19,Delivered
+ORD0225,CUST016,Sahil Singh,35.0,Female,Bengaluru,Karnataka,PRD059,Table Lamp,Home & Kitchen,6324.85,2,30.0,8854.79,105.29,,2025-08-19,2025-08-25,Returned
+ORD0226,CUST007,Kunal Mehta,63.0,Male,Delhi,Delhi,PRD012,Novel,Books,164.71,3,20.0,395.29,14.52,Net Banking,2025-03-06,2025-03-09,Returned
+ORD0227,CUST014,Diya Mehta,62.0,Female,,Karnataka,PRD037,Tablet,Electronics,75019.04,4,10.0,270068.53,10881.27,Net Banking,2025-04-09,2025-04-11,Delivered
+ORD0228,CUST146,Rohan Kumar,53.0,Female,Kolkata,West Bengal,PRD019,Exam Guide,Books,500.74,4,10.0,1802.65,-46.88,Cash on Delivery,05/04/2025,2025-04-09,Cancelled
+ORD0229,CUST050,Pooja Gupta,37.0,Female,Bengaluru,Karnataka,PRD075,Moisturizer,Beauty,4400.57,1,0.0,4400.57,680.33,COD,2025-06-17,2025-06-20,Returned
+ORD0230,CUST083,Vivaan Patel,27.0,Male,Bombay,Maharashtra,PRD060,Notebook,Books,2446.61,0,15.0,6238.85,1824.39,UPI,2024-10-26,2024-10-28,Returned
+ORD0231,CUST047,Diya Mehta,19.0,Female,Kolkata,West Bengal,PRD004,Perfume,Beauty,392.67,1,15.0,333.77,1.29,Cash on Delivery,2024-03-28,2024-04-03,Delivered
+ORD0232,CUST166,Diya Das,57.0,Male,Mumbai,Maharashtra,PRD042,Chair,Home & Kitchen,22316.71,2,110%,37938.41,3964.44,Net Banking,2024-06-19,2024-06-29,Returned
+ORD0233,CUST096,Vivaan Patel,56.0,Female,Ahmedabad,Gujarat,PRD065,Face Wash,Beauty,2174.6,1,10.0,"₹1,957.14",-145.06,Debit Card,15-13-2025,2025-04-17,Delivered
+ORD0234,CUST146,Riya Verma,29.0,Male,Hyderabad,Telangana,PRD070,Chair,Home & Kitchen,15086.01,5,0.0,75430.05,-3119.26,Cash on Delivery,2025-11-01,2025-11-07,Cancelled
+ORD0235,CUST149,Aanya Singh,31.0,Male,Hyderabad,Telangana,PRD078,Moisturizer,Beauty,205.34,3,0.0,616.01,195.55,Wallet,2025-03-15,2025-03-20,Delivered
+ORD0236,CUST087,Aanya Sharma,48.0,Male,Ahmedabad,Gujarat,PRD054,Tablet, Electronics ,36103.94,2,10.0,64987.08,19790.78,Wallet,2025-08-21,2025-08-25,DELIVERED
+ORD0237,CUST129,Sneha Mehta,49.0,Male,Ahmedabad,Gujarat,PRD054,Perfume,Beauty,3114.25,4,5.0,11834.15,1037.34,,2025-12-24,2025-12-28,Cancelled
+ORD0238,CUST188,Aditya Gupta,44.0,Male,Chennai,Tamil Nadu,PRD020,Jacket,Clothing,2625.12,5,20.0,10500.47,,UPI,2025-06-15,2025-06-19,Pending
+ORD0239,CUST200,Diya Das,65.0,Male,Hyderabad,Telangana,PRD023,Table Lamp,Home & Kitchen,19350.22,5,25.0,72563.33,318.24,Debit Card,2024-04-11,2024-04-13,Cancelled
+ORD0240,CUST019,Kabir Patel,55.0,Female,Hyderabad,Telangana,PRD065,Smartwatch,Electronics,16649.64,3,30.0,"₹34,964.25",5069.17,Debit Card,2025-03-15,2025-03-16,Delivered
+ORD0241,CUST054,Arjun Sharma,24.0,Male,Hyderabad,Telangana,PRD011,Vacuum Cleaner,Home & Kitchen,9414.5,1,30.0,6590.15,1833.89,Cash on Delivery,2024-11-19,2024-11-21,Returned
+ORD0242,CUST208,Riya Patel,999,Female,Delhi,Delhi,PRD051,Shampoo,Beauty,997.05,3,20.0,2392.93,835.21,Wallet,2025-06-23,2025-06-27,Delivered
+ORD0243,CUST050,Kabir Patel,50.0,MALE,Bengaluru,Karnataka,PRD053,Moisturizer,Beauty,926.88,2,5.0,1761.06,256.87,Cash on Delivery,2025-05-20,2025-05-21,Delivered
+ORD0244,CUST043,Riya Nair,35.0,M,Hyderabad,Telangana,PRD029,Smartwatch, Electronics ,25623.16,3,10.0,69182.52,10231.21,UPI,2025-03-02,2025-03-07,Pending
+ORD0245,CUST036,Pooja Das,24.0,Female,Bengaluru,Karnataka,PRD058,Cookware,Home & Kitchen,14954.96,3,20.0,35891.91,-999999,Credit Card,2025-02-24,2025-02-26,Pending
+ORD0246,CUST155,Ishaan Nair,38.0,male,Mumbai,Maharashtra,PRD029,Moisturizer,Beauty,4496.31,2,25.0,6744.47,2217.1,UPI,2025-12-12,2025-12-18,Delivered
+ORD0247,CUST122,Priya Patel,35.0,F,Chennai,Tamil Nadu,PRD022,Shampoo,Beauty,3810.22,2,10.0,6858.39,-406.04,Credit Card,2025-11-22,2025/11/23,Delivered
+ORD0248,CUST160,Rohan Mehta,22.0,Female,Kolkata,West Bengal,PRD059,T-Shirt,Clothing,6726.65,1,15.0,5717.65,-2.97,Credit Card,2025-05-17,2025-05-21,Delivered
+ORD0249,CUST008,Kunal Patel,38.0,Male,Kolkata,West Bengal,PRD008,Hoodie,Clothing,1814.91,5,30.0,"₹6,352.19",1905.23,Net Banking,2024-05-02,2024-05-04,Delivered
+ORD0250,CUST208,Riya Reddy,42.0,Female,Ahmedabad,Gujarat,PRD060,Smartwatch,Electronics,11992.98,5,10.0,53968.4,3349.73,Credit Card,2024-11-29,2024-12-09,Returned
+ORD0251,CUST179,Kunal Nair,57.0,male,N/A,Gujarat,PRD068,Smartwatch,Electronics,67760.47,3,0.0,203281.41,42340.83,Wallet,2024-06-19,2024-06-24,Delivered
+ORD0252,CUST114,Kunal Verma,64.0,Male,Mumbai,Maharashtra,PRD075,Chair,Home & Kitchen,6457.25,2,20.0,10331.6,1603.25,Debit Card,2025-06-01,2025-06-06,Delivered
+ORD0253,CUST092,Aarav Singh,45.0,Female,Kolkata,West Bengal,PRD049,Shampoo,Beauty,1068.28,3,10.0,2884.36,675.73,Net Banking,2024-01-14,2024-01-20,Delivered
+ORD0254,CUST183,Aanya Gupta,42.0,Male,Bengaluru,Karnataka,PRD006,Jacket,Clothing,3877.48,4,30.0,10856.93,-816.83,Debit Card,2024-06-16,2024-06-20,Pending
+ORD0255,CUST135,Pooja Patel,,Male,Bengaluru,Karnataka,PRD009,Vacuum Cleaner,Home & Kitchen,5531.18,3,0%,12445.16,366.54,Net Banking,2025-05-05,2025-05-08,Cancelled
+ORD0256,CUST041,Kabir Nair,55.0,Male,Delhi,Delhi,PRD075,Shampoo,Beauty,3076.64,1,5.0,2922.8,167.15,Wallet,2024-10-22,2024-10-26,return
+ORD0257,CUST126,Priya Verma,42.0,Male,Ahmedabad,Gujarat,PRD019,Vacuum Cleaner,Home & Kitchen,9488.02,1,5.0,9013.62,-633.63,Debit Card,2024-12-20,2024-12-21,Delivered
+ORD0258,CUST096,Ananya Mehta,48.0,MALE,Ahmedabad,Gujarat,PRD030,Mixer,Home & Kitchen,19913.79,5,15.0,84633.62,8750.68,UPI,2025-10-02,2025-10-05,Delivered
+ORD0259,CUST005,Kunal Verma,64.0,Female,Mumbai,Maharashtra,PRD013,Exam Guide,Books,"₹2,026.84",3,15.0,5168.44,1157.82,Cash on Delivery,2025-01-15,2025-01-21,Delivered
+ORD0260,CUST120,NA,27.0,Female,Pune,Maharashtra,PRD073,Hoodie,Clothing,2578.33,5,0.0,12891.65,3731.08,Cash on Delivery,2024-04-04,2024-04-06,Pending
+ORD0261,CUST122,Ishaan Das,23.0,Male,Mumbai,Maharashtra,PRD075,Notebook,Books,506.93,-3,5%,481.59,161.35,Wallet,2024-05-30,2024-06-02,Delivered
+ORD0262,CUST014,Sahil Singh,55.0,Female,Ahmedabad,Gujarat,PRD030,Perfume,Home and Kitchen ,1977.11,1,-10%,1779.4,443.13,Debit Card,2025-12-26,2025-12-29,Delivered
+ORD0263,CUST134,-,28.0,Male,Delhi,Delhi,PRD028,Chair,Home & Kitchen,21566.36,1,30.0,15096.46,-574.75,Debit Card,2025-08-14,2025-08-20,Delivered
+ORD0264,CUST157,Aanya Reddy,21.0,Female,Chennai,Tamil Nadu,PRD003,Perfume,Beauty,1589.32,3,110%,3575.96,1230.93,Wallet,2025-08-24,2025/08/26,Cancelled
+ORD0265,CUST209,Aditya Gupta,65.0,Female, mumbai ,Gujarat,PRD047,Mixer,Home & Kitchen,21025.55,4,15.0,71486.85,,Wallet,08/04/2025,2025-04-14,Delivered
+ORD0266,CUST008,Kunal Singh,25 years,Female,MUMBAI,Telangana,PRD061,Hair Oil,Beauty,1765.32,3,20.0,4236.76,811.3,Wallet,2025-02-18,2025-02-20,Delivered
+ORD0267,CUST091,Vivaan Sharma,54.0,Female,Delhi,Delhi,PRD056,Face Wash,Beauty,4423.59,5,10.0,19906.16,"₹-1,052.12",Wallet,2025-06-29,2025-07-02,Cancelled
+ORD0268,CUST094,Kabir Sharma,56.0,Female,Hyderabad,Telangana,PRD069,Hair Oil,Beauty,1431.91,2,30.0,2004.67,409.24,Cash on Delivery,2024-01-22,2024-01-24,Delivered
+ORD0269,CUST018,Ishaan Sharma,50.0,Female,Delhi,Delhi,PRD004,Face Wash,Beauty,4146.69,5,0.0,20733.47,-1055.95,Cash on Delivery,2025-12-09,2025-12-15,Cancelled
+ORD0270,CUST013,Pooja Kumar,30.0,Female,Mumbai,Maharashtra,PRD043,Table Lamp,Home & Kitchen,1564.84,2,5.0,2973.2,-188.05,Net Banking,2024-02-28,15-13-2025,Delivered
+ORD0271,CUST149,Riya Nair,64.0,Male,Delhi,Delhi,PRD051,Jacket,Clothing,6914.82,1,25.0,5186.12,-197.76,Debit Card,12-08-2025,2025-12-23,Returned
+ORD0272,CUST022,Priya Patel,46.0,Female,Ahmedabad,Gujarat,PRD042,Novel,Books,1156.16,4,10.0,4162.19,341.52,Credit Card,2024-03-05,2024-03-15,Delivered
+ORD0273,CUST125,Aarav Patel,38.0,Female,Bombay,West Bengal,PRD037,Jeans,Clothing,5988.05,1,0.0,5988.05,1862.61,UPI,2024-09-29,2024-10-02,Delivered
+ORD0274,CUST135,Sneha Gupta,24.0,Female,Delhi,Delhi,PRD034,Vacuum Cleaner,Home & Kitchen,13136.27,3,0.0,39408.8,10454.44,Wallet,2025-06-11,2025-06-13,Cancelled
+ORD0275,CUST134,Rahul Sharma,40.0,Female,Hyderabad,Telangana,PRD077,Chair,Home & Kitchen,16609.83,5,10.0,74744.22,19511.62,Cash on Delivery,2024/01/10,2024-01-12,Delivered
+ORD0276,CUST087,Vivaan Sharma,58.0,Female,Mumbai,Maharashtra,PRD071,Smartwatch,Electronics,17497.49,5,10.0,78738.72,"₹14,952.29",Debit Card,2025-09-12,31/02/2025,Delivered
+ORD0277,CUST097,Diya Singh,64.0,Male,Ahmedabad,Gujarat,PRD064,Jacket,Clothing,4631.69,4,15.0,15747.76,377.8,Cash on Delivery,2025-09-08,2025-09-11,Delivered
+ORD0278,CUST191,Aarav Das,42.0,Female,Ahmedabad,Gujarat,PRD043,Cookware,Home & Kitchen,9890.86,1,-10%,7912.68,-999999,Net Banking,2025-12-21,2025-12-23,Returned
+ORD0279,CUST168,Priya Gupta,38.0,Male, Delhi ,Delhi,PRD029,Face Wash,Home and Kitchen ,"₹1,845.63",1,5.0,1753.35,587.91,Credit Card,2025-10-18,2025-10-21,Cancelled
+ORD0280,CUST107,Sneha Nair,30.0,Male,,Delhi,PRD015,Jeans,Clothing,1808.21,3,20.0,4339.72,767.67,Cash on Delivery,2025-05-10,2025-05-13,Cancelled
+ORD0281,CUST076,Sahil Reddy,20.0,Male,MUMBAI,West Bengal,PRD055,Chair,Home & Kitchen,11509.91,2,15.0,19566.85,952.31,Credit Card,2025-06-21,2025-06-24,Delivered
+ORD0282,CUST200,Ishaan Kumar,33.0,Female,Ahmedabad,Gujarat,PRD071,Exam Guide,Books,1078 INR,2,0.0,2156.75,186.8,UPI,2025/09/21,2025-09-25,Returned
+ORD0283,CUST049,Sneha Das,61.0,Female,bengaluru,Karnataka,PRD078,Jeans,Clothing,3636.91,3,15.0,9274.12,2470.71,Wallet,2024-11-29,2024-12-02,Delivered
+ORD0284,CUST012,Aanya Verma,53.0,Male,Hyderabad,Telangana,PRD034,Hoodie,Clothing,2668.8,4,20.0,8540.15,1521.07,Cash on Delivery,2025-07-31,2025-08-01,Cancelled
+ORD0285,CUST107,Rohan Mehta,22.0,male,Chennai,Tamil Nadu,PRD064,Moisturizer,Beauty,2866.39,3,10.0,7739.24,2274.95,Debit Card,2024-10-04,06-10-2024,Delivered
+ORD0286,CUST014,Riya Das,29.0,F,Pune,Maharashtra,PRD034,Hair Oil,Beauty,2886.77,2,20.0,4618.84,495.23,UPI,2024-01-09,2024-01-13,Delivered
+ORD0287,CUST136,Priya Nair,29.0,Female,Mumbai,Maharashtra,PRD008,Laptop,Electronics,66008.95,4,20.0,error,36846.37,Credit Card,2025-05-30,2025-06-01,Delivered
+ORD0288,CUST050,Ishaan Patel,41.0,Male,Hyderabad,Telangana,PRD009,Moisturizer,Beauty,4308.81,2,None,99999999,9999999,UPI,2025-06-05,2025-06-11,Delivered
+ORD0289,CUST070,Ishaan Reddy,50.0,Male,Chennai,Tamil Nadu,PRD056,Moisturizer,Beauty,2528.09,2,abc,4044.94,263.02,Cash on Delivery,2024-03-26,2024-03-29,Delivered
+ORD0290,CUST031,Ishaan Reddy,50.0,Female,Hyderabad,Telangana,PRD018,Data Science Book,Books,1245.7,1,0.0,1245.7,347.16,UPI,2024-10-09,2024-10-12,Cancelled
+ORD0291,CUST194,Arjun Sharma,64.0,Male,Mumbai,Maharashtra,PRD068,Novel,Books,400.57,2,10.0,721.02,250.27,Credit Card,2025-03-10,2025-03-14,Delivered
+ORD0292,CUST083,Aditya Das,57.0,Female,Mumbai,Maharashtra,PRD076,Perfume,Beauty,1025.18,unknown,5 %,"₹4,869.61",-255.81,Credit Card,2024-10-05,2024-10-08,return
+ORD0293,CUST141,Rohan Das,30.0,Male,Hyderabad,Telangana,PRD050,Data Science Book,Books,2149.74,4,25.0,6449.21,-70.58,Credit Card,2025-08-11,2025-08-17,Pending
+ORD0294,CUST219,Ishaan Reddy,30.0,Male,Kolkata,West Bengal,PRD016,Novel,Books,1785.12,5,10.0,8033.03,229.65,Wallet,2024-09-11,2024-09-15,Cancelled
+ORD0295,CUST197,Vivaan Verma,30.0,Male,Kolkata,West Bengal,PRD058,Notebook,Books,1337.61,4,10.0,4815.39,1332.48,Wallet,2025-02-12,2025-02-13,Delivered
+ORD0296,CUST010,Sneha Kumar,21.0,Female,Mumbai,Maharashtra,PRD080,Notebook,Books,226.26,5,10%,1018.17,24.61,Cash on Delivery,2025-06-28,2025-06-30,Delivered
+ORD0297,CUST169,Rahul Verma,32.0,Male,Kolkata,West Bengal,PRD080,Data Science Book,Books,1425.05,2,20.0,2280.08,203.64,,2025-02-23,2025-02-27,Delivered
+ORD0298,CUST150,Arjun Sharma,26.0,Female,Pune,Maharashtra,PRD002,Jeans,Clothing,3099.89,2,15.0,5269.81,1084.73,,2025-05-27,2025-05-29,Pending
+ORD0299,CUST113,Pooja Nair,29.0,Female,Unknown,Tamil Nadu,PRD056,Table Lamp,Home & Kitchen,13728.58,4,15.0,46677.16,11458.26,Cash on Delivery,2025-09-01,2025-09-07,Pending
+ORD0300,CUST100,Rahul Mehta,61.0,Male,Hyderabad,Telangana,PRD034,Hoodie,Clothing,3832.0,5,5.0,18202.0,-445.94,Credit Card,2024-03-24,2024-03-25,Cancelled
+ORD0301,CUST085,Sahil Nair,34.0,Female, bengaluru ,West Bengal,PRD057,Jeans,Clothing,3492.31,1,20.0,2793.85,,Wallet,2024-10-23,2024-10-25,Pending
+ORD0302,CUST006,Aarav Mehta,44.0,Female,,Telangana,PRD080,Perfume,Beauty,4001.57,4,15.0,"₹13,605.33",1188.56,Wallet,2025-07-28,2025-07-31,Pending
+ORD0303,CUST040,Aditya Nair,62.0,Female,Hyderabad,Telangana,PRD055,Python Book,Books,2085.57,5,0.0,10427.84,1759.94,Cash on Delivery,2024-06-04,2024-06-07,Delivered 
+ORD0304,CUST118,Diya Das,37.0,Female,Hyderabad,Telangana,PRD027,Shampoo,Beauty,229.68,2,30.0,321.56,68.26,Credit Card,2024-07-02,2024-07-12,Pending
+ORD0305,CUST001,Rakesh S.,46.0,Male,Chennai,Tamil Nadu,PRD051,Novel,Books,2224.15,4,30.0,6227.61,1786.87,Wallet,2025-06-12,2025-06-14,DELIVERED
+ORD0306,CUST188,Aditya Kumar,44.0,Male,Mumbai,Maharashtra,PRD076,T-Shirt,Clothing,5518.99,4,5 %,20972.16,-1385.69,Cash on Delivery,2025/12/23,2025-12-27,Delivered
+ORD0307,CUST177,Pooja Reddy,48.0,Female,Pune,Maharashtra,PRD071,Tablet,Electronics,19770.67,3,20.0,47449.61,9999999,Cash on Delivery,2025-10-02,2025-10-05,Delivered
+ORD0308,CUST194,Priya Kumar,48.0,F,Hyderabad,Telangana,PRD020,Mixer,Home & Kitchen,6717.45,4,10.0,24182.82,7309.87,Net Banking,2025-12-13,?,Returned
+ORD0309,CUST108,Sahil Patel,24.0,Female,Kolkata,West Bengal,PRD034,Python Book,Books,165.97,2,20.0,265.56,38.42,Wallet,2024-01-01,2024-01-06,Delivered
+ORD0310,CUST093,Neha Sharma,24.0,Male,Chennai,Tamil Nadu,PRD066,Shampoo,electronics,1244.42,2,0.0,2488.84,-125.34,Cash on Delivery,2024-06-27,2024-06-29,Delivered
+ORD0311,CUST101,Aanya Kumar,52.0,Male,Kolkata,West Bengal,PRD040,Smartwatch,Electronics,67237.73,3,10.0,181541.88,20167.51,Net Banking,2025-10-07,2025-10-12,Delivered
+ORD0312,CUST022,Kunal Mehta,20.0,Male,Chennai,Tamil Nadu,PRD058,Perfume,Beauty,2164.08,4,5.0,8223.49,2405.21,Cash on Delivery,2024-09-18,2024-09-23,Cancelled
+ORD0313,CUST011,,27.0,Female,Hyderabad,Telangana,PRD034,Face Wash,Beauty,2932.63,3,15.0,7478.21,475.05,Debit Card,23/11/2025,2025-11-27,Pending
+ORD0314,CUST151,?,55.0,Female,Bengaluru,Karnataka,PRD079,Hair Oil,Beauty,2859.1,1,10.0,2573.19,₹-24.89,Cash on Delivery,2024-03-06,2024-03-13,DELIVERED
+ORD0315,CUST170,Neha Verma,40.0,Male,Pune,Maharashtra,PRD054,Face Wash,Beauty,4357.68,3,10.0,11765.74,1818.21,Wallet,02-21-2024,24-02-2024,Delivered
+ORD0316,CUST001,Rakesh Sharma,64.0,Male, Mumbai ,Maharashtra,PRD038,Data Science Book,Books,453.35,5,0.0,2266.76,-71.79,Net Banking,2024-12-15,2024-12-20,Pending
+ORD0317,CUST029,Priya Sharma,25 years,Female,Hyderabad,Telangana,PRD027,Hoodie,Clothing,5283.48,4,10.0,19020.54,4932.24,UPI,2024-08-11,2024-08-16,Cancelled
+ORD0318,CUST001,Rakesh Sharma,61.0,Female,Kolkata,West Bengal,PRD074,Jacket,Clothing,4707.72,1,-10%,3766.18,651.54,Net Banking,2024-06-12,2024-06-18,Delivered
+ORD0319,CUST218,unknown,55.0,Male,Mumbai,Maharashtra,PRD026,Shoes,Home and Kitchen ,2525.74,1,30.0,1768.02,361.7,Net Banking,2024-08-17,2024-08-24,Returned
+ORD0320,CUST102,Riya Nair,28.0,Male,Kolkata,West Bengal,PRD071,Mixer,Home & Kitchen,11611.62,3,25%,26126.14,658.42,Wallet,2025/10/17,2025-10-21,Cancelled
+ORD0321,CUST036,Rahul Kumar,54.0,Male,Ahmedabad,Gujarat,PRD023,Vacuum Cleaner,Home & Kitchen,16054.69,2,20.0,25687.5,5980.17,UPI ,2025-03-23,2025-03-28,Cancelled
+ORD0322,CUST133,Diya Mehta,59.0,Male,Ahmedabad,Gujarat,PRD027,Notebook,Books,1185.74,4,15.0,4031.5,963.22,Credit Card,2024/08/12,16-08-2024,Returned
+ORD0323,CUST087,Vivaan Kumar,54.0,Female,mumbai,Maharashtra,PRD024,Laptop,Electronics,50052.5,5,20.0,200210.0,44528.55,Cash on Delivery,2024-05-08,2024-05-09,Delivered
+ORD0324,CUST024,Diya Singh,41.0,Female, Delhi ,Delhi,PRD080,Headphones,Electronic,55543.01,4,0.0,222172.05,28424.04,Debit Card,2024-04-26,2024-04-27,Delivered
+ORD0325,CUST059,Ishaan Singh,29.0,Male,Bengaluru,Karnataka,PRD026,Smartphone,Electronics,33375.93,1,10.0,30038.34,4889.5,UPI,2025-12-05,2025-12-10,Cancelled
+ORD0326,CUST183,Neha Das,36.0,Female,Ahmedabad,Gujarat,PRD051,T-Shirt,Clothing,4945.84,3,10.0,13353.76,-534.18,Wallet,2025-03-30,2025-04-01,Delivered
+ORD0327,CUST103,Kunal Mehta,46.0,Male,Pune,Maharashtra,PRD017,Notebook,Books,442.85,2,20.0,708.55,151.31,Cash on Delivery,2024-06-29,2024-07-03,Pending
+ORD0328,CUST211,Rohan Verma,33.0,Male,Bengaluru,Karnataka,PRD029,Laptop,ELEC,8560.94,3,20.0,20546.26,-698.11,Wallet,2024-04-10,2024-04-12,Pending
+ORD0329,CUST185,,32.0,Male,,Telangana,PRD042,Vacuum Cleaner,Home & Kitchen,23853.88,4,0.0,95415.5,3362.33,Net Banking,2024-12-02,2024-12-04,Pending
+ORD0330,CUST020,Neha Nair,55.0,Male,Pune,Maharashtra,PRD078,Data Science Book,Books,2191.1,5,15.0,9312.17,2909.31,UPI,2025-03-16,2025/13/40,Delivered
+ORD0331,CUST185,Ananya Das,19.0,Other,Bombay,Telangana,PRD046,Moisturizer,Beauty,1637.23,five,10.0,2947.02,798.23,Cash on Delivery,2024-04-07,2024-04-12,Delivered
+ORD0332,CUST069,Diya Das,60.0,Male,Bengaluru,Karnataka,PRD034,Moisturizer,Beauty,2987.69,2,5.0,5676.61,292.54,Net Banking,2025-11-05,2025-11-11,Returned
+ORD0333,CUST098,Pooja Gupta,53.0,Male,Kolkata,West Bengal,PRD046,Vacuum Cleaner,Home & Kitchen,20052.29,-3,20.0,16041.84,432.85,Cash on Delivery,2025-05-29,2025-06-02,Returned
+ORD0334,CUST128,Aanya Singh,40.0,Female,Pune,Maharashtra,PRD026,Chair,Home & Kitchen,4649.02,1,20.0,3719.22,251.61,Debit Card,05/05/2025,2025-05-10,Returned
+ORD0335,CUST001,R. Sharma,43.0,Female,Bengaluru,Karnataka,PRD079,Jeans,Clothing,"₹3,377.51",2,5.0,6417.27,457.16,Net Banking,2025-02-16,2025-02-19,delivered
+ORD0336,CUST166,Diya Reddy,35.0,Female,Delhi,Delhi,PRD072,Mixer,Home and Kitchen ,24894.18,2,30.0,34851.85,9213.15,Cash on Delivery,2024-01-18,2024-01-20,Delivered
+ORD0337,CUST138,Ananya Patel,19.0,Female,Delhi,Delhi,PRD051,Shampoo,Beauty,4513.6,2,30.0,6319.05,740.87,Credit Card,2024-03-10,2024-03-16,Delivered
+ORD0338,CUST094,Arjun Gupta,18.0,Female,Bengaluru,Karnataka,PRD063,Chair,Home & Kitchen,18072.03,4,15.0,61444.91,1569.64,Net Banking,2025-09-23,2025/09/29,Delivered
+ORD0339,CUST060,Diya Nair,60.0,FEMALE,Hyderabad,Telangana,PRD049,Face Wash,Beauty,4042.57,5,5.0,19202.22,786.38,Debit Card,09/05/2024,2024-05-10,Delivered
+ORD0340,CUST149,Aarav Gupta,44.0,Female,Ahmedabad,Gujarat,PRD070,Jacket,Clothing,5635.54,2,25.0,8453.31,1591.0,Cash on Delivery,2024-08-19,2024-08-21,Delivered
+ORD0341,CUST099,Sahil Verma,41.0,Other,Hyderabad,Telangana,PRD039,Face Wash,Beauty,2801.73,5,10.0,12607.78,4153.91,Wallet,2025-09-30,2025-10-05,Returned
+ORD0342,CUST093,Kabir Patel,42.0,Female,Pune,Maharashtra,PRD032,Cookware,Home & Kitchen,1049.26,2,0.0,2098.53,321.21,Credit Card,2024-01-31,2024-02-04,Returned
+ORD0343,CUST185,Kunal Kumar,20.0,Female,Delhi,Delhi,PRD031,Headphones,Electronics,79536.35,5,15.0,338029.51,11655.1,Net Banking,2025-05-27,2025-05-29,Returned
+ORD0344,CUST128,Pooja Verma,32.0,Male,Delhi,Delhi,PRD063,Shoes,Clothing,2429.82,4,,9719.29,2231.54,Net Banking,2025-05-22,2025-05-28,Returned
+ORD0345,CUST014,Kunal Sharma,50.0,Female,Ahmedabad,Gujarat,PRD017,Smartphone, Electronics ,39578.7,2,20.0,63325.92,15598.02,UPI,2024-10-06,2024-10-12,Delivered
+ORD0346,CUST182,Sahil Singh,44.0,Female,Delhi,Delhi,PRD034,Hoodie,Clothing,3567.37,2,15.0,-5000,1951.88,Cash on Delivery,2024-06-06,2024-06-12,Delivered
+ORD0347,CUST012,Aditya Sharma,38.0,Other,Hyderabad,Telangana,PRD017,Jeans,Clothing,1597.59,3,15.0,4073.84,640.56,UPI,2024-12-09,2024-12-19,Returned
+ORD0348,CUST175,Kunal Das,31.0,Female,Ahmedabad,Gujarat,PRD071,Cookware,home & kitchen,10880.07,1,30.0,7616.05,2394.05,Wallet,2025-10-26,28-10-2025,Pending
+ORD0349,CUST082,Riya Verma,54.0,Female,Mumbai,Maharashtra,PRD064,Vacuum Cleaner,Home & Kitchen,3702.67,3,10.0,unknown,3169.24,Cash on Delivery,2025-09-09,2025-09-12,Returned
+ORD0350,CUST114,Priya Das,61.0,Male,Bengaluru,Maharashtra,PRD015,Vacuum Cleaner,Home & Kitchen,13086.34,3,10.0,35333.13,8664.15,Cash on Delivery,2024-08-22,2024-09-06,Delivered
+ORD0351,CUST137,Aditya Singh,56.0,Male,Chennai,Tamil Nadu,PRD028,Jacket,Clothing,6877.13,2,0.0,13754.27,1286.84,Debit Card,2025-08-24,2025-08-28,Pending
+ORD0352,CUST009,Aditya Gupta,38.0,Male,Delhi,Delhi,PRD072,Shampoo,Beauty,free,5,5.0,"₹17,592.26",2291.37,Debit Card,2024-06-19,2024-07-04,Delivered
+ORD0353,CUST156,Riya Sharma,49.0,Female,Ahmedabad,Gujarat,PRD006,Headphones,Electronics,51214.63,5,5.0,243269.47,-7292.58,Debit Card,2024-04-04,2024-04-08,Delivered
+ORD0354,CUST213,Vivaan Kumar,150,Male,Ahmedabad,Gujarat,PRD042,Shampoo,Beauty,1.2k,4,15.0,4095.88,-325.44,,2025-11-10,2025-11-17,Delivered
+ORD0355,CUST175,Rohan Verma,24.0,Female,Mumbai,Maharashtra,PRD039,Shoes,Clothing,5001.34,2,5.0,9502.55,737.56,Wallet,2024-10-06,2024-10-11,Pending
+ORD0356,CUST124,Priya Reddy,20.0,Male,Hyderabad,Telangana,PRD023,Shampoo,Beauty,2859.68,2,30.0,4003.55,-46.29,Net Banking,30/04/2025,2025-05-15,Pending
+ORD0357,CUST079,Neha Reddy,999,Male,Chennai,Tamil Nadu,PRD019,Jeans,Clothing,4443.66,4,15%,15108.43,4585.49,Cash on Delivery,2025-02-06,2025-02-11,Cancelled
+ORD0358,CUST123,Vivaan Nair,64.0,Male,Bengaluru,Karnataka,PRD074,Smartphone,Electronics,20842.25,3,10.0,56274.08,17264.35,Credit Card,2024-12-04,2024-12-10,Delivered
+ORD0359,CUST042,Vivaan Nair,40.0,Male,Kolkata,West Bengal,PRD071,Moisturizer,Beauty,2042.95,5,0.0,10214.73,1534.76,Net Banking,2025-09-14,2025-09-20,Returned
+ORD0360,CUST136,Rohan Reddy,51.0,male,hyderabad,Telangana,PRD017,T-Shirt,Clothing,"₹5,209.63",3,15.0,13284.55,-128.13,UPI,11-18-2024,2024-11-21,Pending
+ORD0361,CUST057,Kunal Reddy,27.0,Female,Chennai,Tamil Nadu,PRD067,Notebook,Books,348.27,3,15.0,₹0,137.36,Debit Card,2024-01-09,2024/01/12,Delivered
+ORD0362,CUST030,Sneha Reddy,52.0,Female,Mumbai,Maharashtra,PRD031,Laptop,Electronics,39682.19,1,,37698.08,4452.38,Wallet,2024-06-25,2024-07-05,Delivered
+ORD0363,CUST090,Aanya Nair,58.0,Female,Kolkata,West Bengal,PRD077,Exam Guide,Books,"Rs. 2,498",3,unknown,6371.02,2012.81,Cash on Delivery,2024-03-20,2024-03-26,Delievered
+ORD0364,CUST023,Aanya Nair,30.0,Female,Ahmedabad,Gujarat,PRD031,Python Book,Books,536.04,4,30.0,1500.9,277.13,Net Banking,2024-05-09,2024-05-13,Delivered
+ORD0365,CUST136,Sahil Patel,44.0,Female,bengaluru,Karnataka,PRD042,Hair Oil,Beauty,4960.79,5,25.0,18602.97,1925.78,Cash on Delivery,2025-10-29,2025-11-03,Returned
+ORD0366,CUST159,Sneha Mehta,34.0,Male,Chennai,Tamil Nadu,PRD039,Cookware,Home and Kitchen,14868.54,5,10.0,66908.45,16170.8,Credit Card,12-27-2024,2024-12-30,Delivered
+ORD0367,CUST096,Priya Das,29.0,Male,Ahmedabad,Gujarat,PRD070,Smartphone,Electronics,80770.22,5,30.0,282695.77,70601.86,Debit Card,08-11-2024,2024-08-14,Delivered
+ORD0368,CUST104,Aarav Kumar,61.0,Female,Pune,Maharashtra,PRD071,Smartphone,Electronics,66051.16,5,25 %,280717.41,94486.76,Credit Card,2025-11-29,2025-12-05,Delivered
+ORD0369,CUST108,Sahil Patel,150.0,Male,Chennai,Tamil Nadu,PRD011,Tablet,Electronics,64186.52,3,25.0,144419.67,-8115.7,Wallet,2025-10-04,2025-10-07,Returned
+ORD0370,CUST146,Neha Mehta,29.0,Male,bengaluru,Karnataka,PRD071,Smartphone,Electronics,52286.5,3,5 %,109801.66,,Wallet,2024-12-22,2024-12-26,Pending
+ORD0371,CUST035,Arjun Patel,45.0,Female,,Delhi,PRD023,Smartwatch,Electronics,41729.08,2,25.0,62593.63,"₹-4,039.46",Debit Card,2024-10-19,2024-10-26,Delivered
+ORD0372,CUST029,Vivaan Mehta,30.0,Female,Pune,Maharashtra,PRD021,Smartwatch,Electronics,49695.28,unknown,20.0,119268.67,22630.64,Cash on Delivery,2024-10-16,2024-10-21,Delivered
+ORD0373,CUST068,Kabir Sharma,54.0,Male,Bengaluru,Karnataka,PRD030,Hair Oil,Beauty,3412.71,5,0.0,17063.57,3877.9,UPI,2024-10-23,2024-10-30,Delivered
+ORD0374,CUST183,Riya Patel,54.0,Female,Delhi,Delhi,PRD017,Headphones,Electronics,69522.29,1,20.0,55617.83,4310.56,Wallet,2025-06-13,2025-06-18,Cancelled
+ORD0375,CUST149,Riya Reddy,37.0,Male, Delhi ,Delhi,PRD008,Hoodie,Clothing,4764.01,1,0.0,4764.01,1424.16,Debit Card,2025-11-06,2025-11-12,Delivered
+ORD0376,CUST152,Aditya Singh,150,Male,Bengaluru,Karnataka,PRD063,Smartphone,Electronics,49149.27,5,20.0,196597.08,22648.44,Wallet,2024-03-19,2024-03-25,Delivered
+ORD0377,CUST216,Sneha Mehta,40.0,Male,Hyderabad,Telangana,PRD037,Notebook,Books,1372.32,2,0.0,2744.63,414.03,Wallet,2025-02-04,2025-02-07,Delivered
+ORD0378,CUST036,Sneha Kumar,28.0,Male,Chennai,Tamil Nadu,PRD039,T-Shirt,Clothing,1805.7,3,10 percent,4604.54,1251.95,Debit Card,2025-08-22,2025-08-26,Delivered
+ORD0379,CUST159,Kabir Singh,-4.0,Male,Hyderabad,Telangana,PRD010,Tablet,Electronics,13682.97,2,20.0,21892.75,5724.47,Wallet,2024-05-25,2024-06-04,Pending
+ORD0380,CUST120,Aarav Singh,19.0,Male,Delhi,Delhi,PRD061,Jeans,Clothing,3156.83,2,20.0,5050.94,811.58,Net Banking,2024-03-11,2024-03-13,Delivered
+ORD0381,CUST182,Vivaan Kumar,63.0,Female,Kolkata,West Bengal,PRD075,Exam Guide,Books,247.86,5,15.0,1053.42,152.7,Debit Card,2024-03-22,2024-03-27,Delivered
+ORD0382,CUST032,Diya Das,18.0,Male,Bengaluru,Karnataka,PRD002,Hair Oil,Beauty,4054.58,4,20%,12974.65,3443.23,UPI,15-13-2025,2025-12-01,Returned
+ORD0383,CUST150,Pooja Das,60.0,Male,Ahmedabad,Gujarat,PRD006,Novel,Books,724.67,5,-,3623.35,₹71.72,Debit Card,2025-01-27,30-01-2025,Returned
+ORD0384,CUST020,Pooja Nair,27.0,Male,Kolkata,West Bengal,PRD004,Face Wash,Beauty,1819.32,5,15.0,7732.13,2233.34,Net Banking,01-05-2025,2025-01-06,Delivered
+ORD0385,CUST137,Kunal Singh,22.0,Male,Pune,Maharashtra,PRD022,Tablet,Electronics,44236.44,5,20.0,176945.77,52968.45,UPI,2025-02-05,2025-02-12,Pending
+ORD0386,CUST093,Riya Patel,53.0,Female,Kolkata,West Bengal,PRD008,Python Book,Books,1555.74,5,0%,7000.83,1826.67,Credit Card,2025-09-08,2025-09-10,Delivered
+ORD0387,CUST001,Ishaan Gupta,18.0,Female,Ahmedabad,Gujarat,PRD060,Moisturizer,Beauty,2376.4,2,15.0,4039.88,-82.97,Net Banking,2025-12-08,2025-12-12,Delivered
+ORD0388,CUST023,Neha Sharma,51.0,Male,Mumbai,Maharashtra,PRD011,Smartphone,Electronics,54271.25,5,10.0,244220.61,10452.46,Cash on Delivery,2025-01-14,2025-01-20,return
+ORD0389,CUST130,Rohan Sharma,21.0,Female,Ahmedabad,Gujarat,PRD025,Vacuum Cleaner,Home and Kitchen,"₹20,729.71",1,20.0,16583.77,4431.86,Debit Card,2024-05-02,2024-05-07,Delivered
+ORD0390,CUST141,Kunal Gupta,61.0,Female,Chennai,Tamil Nadu,PRD046,Data Science Book,Books,1366.36,1,10.0,1229.72,394.2,Net Banking,2024-02-12,2024-02-17,Delivered
+ORD0391,CUST189,-,43.0,Male,Bengaluru,Karnataka,PRD017,Table Lamp,Home & Kitchen,18176.55,3,25.0,40897.24,2177.46,Debit Card,2025-09-20,2025-09-23,Cancelled
+ORD0392,CUST013,Vivaan Verma,33.0,Male,Bengaluru,Karnataka,PRD077,Tablet,Electronics,59590.04,2,15.0,101303.07,5110.4,Debit Card,2025-02-17,2025-03-04,Delivered
+ORD0393,CUST099,Diya Kumar,29.0,Male,Pune,Maharashtra,PRD080,Shampoo,Beauty,342.99,1,5.0,325.84,19.0,UPI,2025-03-31,2025-04-03,Delivered
+ORD0394,CUST019,Aanya Reddy,48.0,Female,Bengaluru,Karnataka,PRD017,Face Wash,Beauty,217.55,2,10.0,391.59,7.35,Wallet,2024-10-11,2024-10-18,Delivered
+ORD0395,CUST172,Neha Gupta,37.0,Female,Delhi,Delhi,PRD011,Moisturizer,Beauty,"₹3,427.17",4,15.0,11652.37,1131.88,Net Banking,2025-11-07,2025-11-08,Cancelled
+ORD0396,CUST066,Diya Kumar,30.0,Female,Delhi,Delhi,PRD014,Exam Guide,Books,523.47,1,15.0,444.95,25.1,Net Banking,2024-03-17,2024-03-22,Delivered
+ORD0397,CUST016,Riya Gupta,60.0,Female,Kolkata,West Bengal,PRD033,Laptop,Electronics,26751.0,4,0.0,107004.01,29141.6,Wallet,2024-05-31,2024-06-02,Delivered
+ORD0398,CUST190,Vivaan Kumar,37.0,Female,Hyderabad,Telangana,PRD025,Shoes,Clothing,6027.79,1,15.0,5123.62,550.79,Wallet,?,2025-05-29,Delivered 
+ORD0399,CUST210,Kunal Nair,35.0,Female,Mumbai,Maharashtra,PRD049,Tablet,Electronics,73996.29,0,0.0,221988.87,70871.8,UPI,2024-02-24,2024-02-25,Delivered
+ORD0400,CUST041,Ishaan Das,19.0,Female,Delhi,Delhi,PRD016,Table Lamp,Home & Kitchen,9110.44,4,5.0,34619.66,-2538.86,UPI,2025-09-16,2025-09-19,Cancelled
+ORD0401,CUST152,Arjun Singh,58.0,F,Hyderabad,Telangana,PRD020,Table Lamp,Home & Kitchen,21567.67,3,20.0,51762.42,9589.53,Wallet,2024-02-21,2024-02-23,Delivered
+ORD0402,CUST190,Aditya Patel,49.0,Male,Pune,Maharashtra,PRD001,Novel,Books,775.15,3,15.0,1976.63,-30.12,UPI,10-13-2025,2025-10-20,Delivered
+ORD0403,CUST207,Kunal Reddy,64.0,Female,Bengaluru,Karnataka,PRD072,Hair Oil,Beauty,1385.43,1,10.0,1246.89,146.95,Credit Card,2025-09-08,2025-09-15,Delivered
+ORD0404,CUST215,Kunal Verma,36.0,Male,Bengaluru,Karnataka,PRD011,Jacket,Clothing,4550.62,1,15.0,3868.03,918.53,Debit Card,15-13-2025,2025-12-30,Returned
+ORD0405,CUST070,Aanya Gupta,31.0,M,Kolkata,West Bengal,PRD074,T-Shirt,Clothing,4980.32,5,NA,24901.58,541.67,Wallet,2025-02-14,2025-02-16,Delivered
+ORD0406,CUST068,Kunal Nair,56.0,FEMALE,Bengaluru,West Bengal,PRD023,T-Shirt,Electronics,5205.93,5,15.0,22125.2,6869.34,Net Banking,2025/13/40,2024-09-26,Cancelled
+ORD0407,CUST103,Diya Nair,62.0,Female,Ahmedabad,Gujarat,PRD071,Novel,Books,555.02,2,10.0,999.04,208.46,credit card,2025-03-17,2025-03-19,Cancelled
+ORD0408,CUST156,Vivaan Singh,60.0,Male,Mumbai,Maharashtra,PRD006,Table Lamp,Home & Kitchen,19017.67,1,10.0,17115.91,3456.05,Cash on Delivery,2024-12-16,2024-12-19,Delivered
+ORD0409,CUST043,Sneha Singh,36.0,Female,Pune,Maharashtra,PRD024,Data Science Book,Books,"₹1,616.85",4,NA,5820.66,1799.36,Credit Card,2025-06-21,2025-06-27,Cancelled
+ORD0410,CUST177,Kabir Das,25.0,Female,Hyderabad,Telangana,PRD018,Shoes,Clothing,3162.15,3,15.0,8063.47,672.23,Wallet,2024/12/21,,Delivered
+ORD0411,CUST119,Ishaan Singh,48.0,Male,Pune,Maharashtra,PRD023,Cookware,ELEC,9667.13,1,30%,6766.99,-7.18,Net Banking,15-13-2025,2025/11/12,Returned
+ORD0412,CUST024,Ananya Das,21.0,Female,Chennai,Tamil Nadu,PRD018,Smartwatch,Electronics,16295.43,4,10.0,58663.56,17885.73,Debit Card,21/07/2024,,Delivered
+ORD0413,CUST199,Arjun Verma,41.0,Male,Unknown,Maharashtra,PRD039,Data Science Book,Books,₹536.76,2,25.0,805.14,249.11,Credit Card,2024-11-24,2024-12-01,Delivered
+ORD0414,CUST070,,,Male,Ahmedabad,Gujarat,PRD056,Notebook,Books,2458.02,0,110%,11061.08,334.11,credit card,2024-11-01,2024-11-08,Cancelled
+ORD0415,CUST141,Aarav Sharma,64.0,Female,Kolkata,West Bengal,PRD025,Chair,Home & Kitchen,16290.39,2,20%,26064.62,2751.94,Credit Card,2025-10-01,2025-10-04,Cancelled
+ORD0416,CUST193,Aarav Das,,Female, Bengaluru ,Karnataka,PRD019,Python Book,Books,2378.8,5,30.0,8325.8,,Cash on Delivery,2024-12-22,2024-12-24,Delivered
+ORD0417,CUST037,Riya Das,32.0,Female,Pune,Maharashtra,PRD011,Jeans,Clothing,6270.38,1,15.0,5329.83,495.83,Cash on Delivery,2024-05-24,27-05-2024,Returned
+ORD0418,CUST186,Sneha Nair,62.0,Male,Ahmedabad,Gujarat,PRD061,Shampoo,Beauty,1197.65,3,5.0,3413.3,-50000,Wallet,2024-03-05,2024-03-08,Cancelled
+ORD0419,CUST043,Neha Singh,44.0,Male,Mumbai,Maharashtra,PRD035,Novel,Books,1299.91,3,10.0,3509.75,429.73,Cash on Delivery,2025-04-17,2025.07.15,Cancelled
+ORD0420,CUST168,N/A,26.0,Female,Mumbai,Maharashtra,PRD061,Smartwatch,Electronics,85553.53,4,10.0,307992.7,1125.91,Debit Card,2024-05-26,2024-06-10,Delivered
+ORD0421,CUST086,Pooja Mehta,19.0,Female,Mumbai,Maharashtra,PRD075,Novel,Books,1096.55,1,20.0,877.24,119.12,UPI,2025-09-29,2025-10-03,Returned
+ORD0422,CUST107,Sahil Nair,34.0,Female, bengaluru ,Gujarat,PRD023,Mixer,Home & Kitchen,15019.64,3,0.0,45058.93,-3248.58,,2025/01/18,2025-01-23,Returned
+ORD0423,CUST052,Pooja Patel,20.0,Male,Chennai,Tamil Nadu,PRD044,Perfume,Beauty,2344.11,4,15.0,7969.96,407.11,Credit Card,2024-02-28,2024-03-04,Pending
+ORD0424,CUST186,Sneha Sharma,20.0,Female,Pune,Maharashtra,PRD029,Data Science Book,Books,877.63,2,5.0,1667.51,-1.89,UPI,2024-01-28,2024-01-31,Delivered
+ORD0425,CUST213,Ananya Das,52.0,Female,Hyderabad,Telangana,PRD011,Hair Oil,Beauty,3850.91,4,20.0,12322.92,-369.72,UPI,2025-01-22,2025/13/40,Cancelled
+ORD0426,CUST140,Kabir Mehta,unknown,Male,Kolkata,West Bengal,PRD069,Novel,Books,1585.75,4,10.0,5708.72,484.78,Wallet,2025-03-24,2025-04-03,Pending
+ORD0427,CUST141,Aarav Verma,50.0,Female,Ahmedabad,Gujarat,PRD067,Laptop,Electronics,19493.57,1,10.0,17544.21,2340.73,Net Banking,2025-12-17,2025-12-23,Delivered
+ORD0428,CUST121,Rohan Kumar,51.0,Male,Kolkata,West Bengal,PRD001,Hair Oil,Beauty,1221.68,4,15.0,4153.71,1402.93,Cash on Delivery,2025-10-24,2025-10-28,Pending
+ORD0429,CUST073,Aditya Singh,43.0,Female,Chennai,Tamil Nadu,PRD051,T-Shirt,Clothing,"₹3,710.02",4,15.0,12614.07,3050.02,Credit Card,2024-10-15,2024-10-17,Returned
+ORD0430,CUST085,Ishaan Patel,25.0,Male,Pune,Maharashtra,PRD009,Chair,Home & Kitchen,7315.45,3,10.0,99999999,2601.57,UPI,2025-04-25,2025-04-28,Delivered
+ORD0431,CUST184,Arjun Reddy,34.0,Female,delhi,Delhi,PRD027,Jacket,Clothing,803.45,3,-,2410.35,400.73,Net Banking,2024-01-20,2024-02-04,Delivered
+ORD0432,CUST212,Riya Sharma,27.0,Male,Chennai,Tamil Nadu,PRD064,Jacket,Clothing,3751.98,4,0.0,15007.93,1168.86,Wallet,2024-02-06,2024-02-08,Delivered
+ORD0433,CUST208,Pooja Sharma,18.0,Male,MUMBAI,Karnataka,PRD041,Notebook,Books,153.02,1,15.0,130.07,11.01,,2025-03-02,2025-03-09,Delivered
+ORD0434,CUST146,Ishaan Kumar,58.0,Male,Ahmedabad,Gujarat,PRD053,T-Shirt,Clothing,2003.54,2,15.0,3406.02,1051.56,UPI,2024-12-04,2024-12-10,Returned
+ORD0435,CUST214,Pooja Reddy,61.0,Male, mumbai ,Tamil Nadu,PRD050,Cookware,Home & Kitchen,11344.22,1,20.0,9075.37,₹629.23,Net Banking,2025-06-24,2025-06-27,Pending
+ORD0436,CUST217,Rahul Nair,51.0,Male,Bengaluru,Karnataka,PRD061,Notebook,Books,2316.81,5,0.0,11584.07,-807.76,Wallet,2024-01-17,2024-01-21,Delivered
+ORD0437,CUST205,?,?,Female,Kolkata,West Bengal,PRD069,Python Book,Books,1487.81,1,25 %,1190.25,271.4,Net Banking,2024-07-19,2024-07-24,Delivered
+ORD0438,CUST010,Aarav Gupta,30.0,Male,Chennai,Tamil Nadu,PRD003,Laptop,Electronics,free,five,30.0,160721.84,22568.59,Debit Card,2024-07-26,2024-07-31,Pending
+ORD0439,CUST043,Kunal Sharma,0.0,Male,Hyderabad,Telangana,PRD080,Table Lamp,Home & Kitchen,8141.61,1,0.0,8141.61,2438.11,Cash on Delivery,2025-06-25,2025-06-30,Delivered
+ORD0440,CUST009,Rahul Mehta,63.0,Male, bengaluru ,Telangana,PRD037,Face Wash,Beauty,2860.07,4,15.0,9724.24,-711.65,Debit Card,2025-05-31,2025-06-05,Returned
+ORD0441,CUST001,Rahul Sharma,21.0,Female,Mumbai,Maharashtra,PRD009,Hoodie,Clothing,6550.41,10000,,15720.99,1870.1,COD,2025-12-01,2025-12-16,Delivered
+ORD0442,CUST025,Sneha Verma,59.0,Female,Ahmedabad,Gujarat,PRD076,Hair Oil,Beauty,"₹3,732.58",3,10.0,10077.96,1791.41,UPI,2025-08-24,2025-08-26,Delivered
+ORD0443,CUST057,Ishaan Sharma,49.0,Female,Delhi,Delhi,PRD057,Python Book,Books,611.64,5,10.0,2752.37,624.04,Net Banking,2024-06-18,2024-06-23,Pending
+ORD0444,CUST001,Rahul Sharma,24.0,Female,Kolkata,West Bengal,PRD046,Face Wash,Beauty,2299.27,2,10.0,4138.68,-276.24,Wallet,2025-07-13,2025-07-20,Cancelled
+ORD0445,CUST144,Rohan Nair,59.0,Male,Pune,Maharashtra,PRD076,Face Wash,Beauty,4696.9,1,5.0,4462.05,148.56,Net Banking,2025-01-15,2025-01-17,Cancelled
+ORD0446,CUST167,Priya Verma,34.0,Female,Kolkata,West Bengal,PRD071,Exam Guide,Books,392.98,5,15.0,1670.16,314.79,Credit Card,2024-01-18,2024-01-21,Returned
+ORD0447,CUST086,?,52.0,Male,Pune,Maharashtra,PRD035,Cookware,Home & Kitchen,10546.73,5,5.0,50096.96,5807.95,Debit Card,2025-06-30,2025-07-02,Delivered
+ORD0448,CUST112,Rahul Reddy,58.0,Female,Ahmedabad,Gujarat,PRD080,Perfume,Beauty,4215.45,3,15.0,10749.4,1086.56,Cash on Delivery,2024-05-23,2024-05-24,Cancelled
+ORD0449,CUST145,Vivaan Verma,65.0,Male,,Gujarat,PRD004,Python Book,Books,849.72,3,20.0,2039.33,125.16,UPI,2025-10-07,2025-10-10,Delivered
+ORD0450,CUST155,Aditya Patel,62.0,Female,Chennai,Tamil Nadu,PRD028,Jacket,Clothing,1180.29,5,10.0,5311.32,-81.19,Net Banking,2025-04-18,2025-04-22,Returned
+ORD0451,CUST208,Priya Reddy,55.0,Female,Delhi,Delhi,PRD015,Notebook,Books,253.74,1,25.0,190.31,-8.06,UPI,2024-06-11,2024-06-15,Pending
+ORD0452,CUST067,Aarav Verma,44.0,Female,NA,Delhi,PRD040,Laptop,Electronics,46771.7,4,10.0,168378.12,9272.12,UPI,2025-02-16,2025-02-19,Delivered
+ORD0453,CUST145,Sahil Reddy,61.0,Other,Chennai,Tamil Nadu,PRD044,Notebook,Books,1347.93,2,15%,2291.48,23.14,Wallet,2025-04-15,2025-04-19,Delivered
+ORD0454,CUST190,Ishaan Patel,46.0,Male,Kolkata,West Bengal,PRD039,Vacuum Cleaner,Home & Kitchen,19768.78,4,30.0,55352.58,1380.91,Cash on Delivery,2025-11-06,2025-11-08,Cancelled
+ORD0455,CUST049,Ananya Gupta,58.0,Female,Hyderabad,Telangana,PRD079,Hair Oil,Beauty,975.86,3,0.0,2927.58,917.47,Wallet,2025-05-24,2025-05-25,Pending
+ORD0456,CUST149,Sneha Verma,58.0,Other,Pune,Maharashtra,PRD003,Perfume,Beauty,1628.83,5,5 %,8144.17,1753.87,,2024-03-31,2024-04-03,Delivered
+ORD0457,CUST088,Vivaan Nair,31.0,F,Kolkata,West Bengal,PRD013,Smartphone,Electronics,32886.69,4,20.0,105237.41,"₹3,227.33",UPI,2024-07-30,not available,Delivered
+ORD0458,CUST200,Ishaan Kumar,28.0,Male, Hyderabad ,Telangana,PRD063,Jeans,Clothing,5971.76,2,25.0,8957.63,160.18,COD,2025-05-06,,Returned
+ORD0459,CUST200,Sneha Kumar,36.0,Male,Bengaluru,Karnataka,PRD032,Jeans,Clothing,6624.03,5,unknown,26496.11,-1764.5,Cash on Delivery,2024-01-12,2024-01-13,Pending
+ORD0460,CUST066,Ishaan Sharma,33.0,Male,Pune,Maharashtra,PRD075,Python Book,Books,1634.67,3,30.0,3432.81,-48.58,Credit Card,2025-03-10,2025-03-13,Delivered
+ORD0461,CUST036,Ananya Patel,65.0,Female,Mumbai,Maharashtra,PRD070,Hoodie,Clothing,4461.94,3,0.0,13385.81,159.75,Credit Card,2024-11-14,2024-11-20,Delivered
+ORD0462,CUST076,None,25.0,F, mumbai ,Tamil Nadu,PRD028,Moisturizer,Beauty,2315.62,1,5.0,2199.84,587.71,,2024-08-08,2025.07.15,Delivered
+ORD0463,CUST144,NA,40.0,Female,Delhi,Delhi,PRD011,Shoes,Clothing,5612.14,2,20.0,8979.42,216.75,UPI,2024-09-01,2024-09-06,Delivered
+ORD0464,CUST068,Ananya Kumar,44.0,Male, bengaluru ,Delhi,PRD061,Perfume,Beauty,2481.43,4,20.0,7940.56,-418.31,Debit Card,2025-12-30,2026-01-05,Delivered
+ORD0465,CUST120,Aditya Das,51.0,Male,Chennai,Tamil Nadu,PRD043,Tablet,Electronics,33045.49,4,0.0,132181.95,43025.08,Wallet,2025-01-12,2025-01-14,Delivered
+ORD0466,CUST028,Pooja Das,57.0,Male,Pune,Maharashtra,PRD057,Chair,Home & Kitchen,9525.5,3,30.0,20003.54,3727.05,Wallet,2025-04-17,2025-04-20,Delivered
+ORD0467,CUST189,Diya Kumar,34.0,Female,Ahmedabad,Gujarat,PRD062,Headphones, Electronics ,15771.01,4,0.0,63084.06,1490.57,Credit Card,2025-05-05,2025-05-06,Delivered
+ORD0468,CUST001,Vivaan Mehta,twenty five,Female,Chennai,Tamil Nadu,PRD007,Hair Oil,Beauty,2010.81,5,20.0,8043.24,861.83,Net Banking,2025-02-19,2025-02-23,Cancelled
+ORD0469,CUST193,Aditya Nair,59.0,Other,Hyderabad,Telangana,PRD079,Python Book,Books,2332.51,2,0.0,4665.03,1427.74,Wallet,?,2025-12-26,Delivered
+ORD0470,CUST114,Vivaan Kumar,32.0,Female,Chennai,Tamil Nadu,PRD037,Notebook,Books,1801.44,4,0.0,7205.74,-559.99,Net Banking,2025-08-05,2025-08-10,Cancelled
+ORD0471,CUST126,,27.0,Female,Bengaluru,Karnataka,PRD020,Cookware,Home & Kitchen,10732.0,1,-10%,9658.8,100.22,Net Banking,2025-02-15,2025-02-25,Delivered
+ORD0472,CUST173,Ananya Mehta,33.0,Female,Kolkata,West Bengal,PRD006,Data Science Book,Books,534.33,1,10.0,480.9,-33.0,Credit Card,2024-11-29,2024-12-03,Delivered
+ORD0473,CUST099,Aanya Kumar,19.0,Male,Bengaluru,Karnataka,PRD045,Moisturizer,Beauty,540.4,0,15.0,2296.69,642.26,Credit Card,2025-07-26,27-07-2025,Delivered
+ORD0474,CUST067,Aditya Mehta,42.0,Female,Chennai,Tamil Nadu,PRD063,Moisturizer,Beauty,2488.42,2,15.0,4230.31,1226.41,Debit Card,2024-09-13,2024-09-15,Delivered
+ORD0475,CUST178,Arjun Reddy,-5,Female,Kolkata,West Bengal,PRD057,Laptop,Electronics,25296.04,5,-,94860.16,10024.46,Credit Card,2024-12-31,2025-01-05,Delivered
+ORD0476,CUST116,Ananya Das,34.0,Male,Ahmedabad,Gujarat,PRD070,Notebook,Electronics,227.14,4,10.0,817.7,272.94,Debit Card,2025-04-08,2025-04-12,Delivered
+ORD0477,CUST092,Sahil Mehta,25 years,Male,Delhi,Delhi,PRD052,Hair Oil,Beauty,3205.64,4,20%,10258.03,1152.52,Wallet,2025-03-29,2025-04-02,Delivered
+ORD0478,CUST177,Sneha Nair,61.0,FEMALE,Kolkata,West Bengal,PRD007,Jacket,Clothing,1974.44,5,-,8391.37,-430.7,Net Banking,2024-08-29,2024-09-01,Returned
+ORD0479,CUST125,Riya Mehta,46.0,Male,,Gujarat,PRD007,Table Lamp,Home & Kitchen,11632.88,5,10.0,52347.96,"₹14,945.06",Net Banking,2025-01-05,2025/01/10,Cancelled
+ORD0480,CUST197,unknown,64.0,Male,Mumbai,Maharashtra,PRD058,Novel,Books,2394.82,3,20.0,5747.57,-89.43,Cash on Delivery,2025-01-19,2025-01-22,Delivered
+ORD0481,CUST128,Kunal Gupta,62.0,Female,Bengaluru,Karnataka,PRD025,Hair Oil,Beauty,"Rs. 2,587",4,5.0,9828.97,1115.99,Credit Card,2024-06-08,2024-06-14,Cancelled
+ORD0482,CUST144,Aanya Mehta,62.0,Female,Hyderabad,Telangana,PRD054,Laptop,Electronics,81510.77,1,5.0,"₹77,435.24",21887.11,Wallet,2025-08-14,2025-08-17, Delivered 
+ORD0483,CUST097,Ishaan Kumar,62.0,Male,Pune,Maharashtra,PRD009,Perfume,Beauty,1021.29,3,-,2451.1,-106.29,Cash on Delivery,2024-06-23,2024-06-26,Cancelled
+ORD0484,CUST162,Arjun Reddy,38.0,Male,Bengaluru,Karnataka,PRD065,Notebook,Books,2028.21,5,30.0,7098.73,-0.65,UPI,2024-11-22,,Delivered
+ORD0485,CUST071,Diya Mehta,,Male,Hyderabad,Telangana,PRD057,Chair,Home & Kitchen,15187.24,5,25.0,56952.15,6515.21,Net Banking,2024-09-02,2024-09-04,CANCELLED
+ORD0486,CUST149,Aanya Nair,56.0,Male,Bangalore,Karnataka,PRD035,Notebook,Books,1412.93,1,15.0,1200.99,106.19,UPI,2025-04-05,2025-04-09,Delivered
+ORD0487,CUST001,R. Sharma,33.0,Female,MUMBAI,Delhi,PRD046,Face Wash,Beauty,3012.09,5,?,15060.45,4360.2,Cash on Delivery,2025-07-07,2025-07-10,CANCELLED
+ORD0488,CUST052,Ananya Gupta,60.0,Male,Hyderabad,Telangana,PRD042,Hair Oil,Beauty,3049.79,3,5.0,8691.9,1786.93,Cash on Delivery,2024-12-28,2025-01-01,Cancelled
+ORD0489,CUST212,Pooja Singh,20.0,Female,Pune,Maharashtra,PRD049,Mixer,Home & Kitchen,7521.25,5,5%,35725.92,2434.28,UPI,2024-12-01,2024-12-04,Pending
+ORD0490,CUST193,Ananya Sharma,18.0,Female,Kolkata,West Bengal,PRD026,T-Shirt,Clothing,6007.81,3,0%,18023.42,5746.45,Net Banking,2025-09-08,2025-09-12,Pending
+ORD0491,CUST147,Riya Reddy,55.0,Female,Mumbai,Maharashtra,PRD027,Shoes,Clothing,2124.14,5,10.0,9558.62,1584.86,Net Banking,2024-08-04,2024-08-07,Pending
+ORD0492,CUST019,Kunal Das,39.0,F,Chennai,Tamil Nadu,PRD038,Hair Oil,Beauty,4038.86,1,25.0,3029.15,126.89,Net Banking,2025-01-19,2025-01-25,Returned
+ORD0493,CUST037,Neha Mehta,18.0,Female,Bengaluru,Karnataka,PRD012,Table Lamp,Home & Kitchen,9901.01,1,15.0,8415.86,952.12,Net Banking,2025-01-28,not available,Delivered
+ORD0494,CUST134,Aanya Das,20.0,Female,Hyderabad,Telangana,PRD015,Chair,Home & Kitchen,free,2,25.0,18508.48,1971.17,Credit Card,2025-09-11,2025-09-15,Returned
+ORD0495,CUST020,Rahul Sharma,45.0,Male,Bengaluru,Karnataka,PRD022,Data Science Book,Books,1324.31,1,15.0,1125.66,-20.43,Wallet,09-22-2024,2024-09-26,Pending
+ORD0496,CUST209,Ananya Das,39.0,Male,Pune,Maharashtra,PRD057,T-Shirt,ELEC,577.34,4,30.0,1616.54,159.62,,2024-10-26,2024-10-27,Returned
+ORD0497,CUST033,Sneha Gupta,65.0,Female,Hyderabad,Telangana,PRD021,Hair Oil,Beauty,3642.65,5,20.0,14570.61,4138.36,Credit Card,2025/08/25,2025-08-31,Pending
+ORD0498,CUST072,Ananya Mehta,31.0,Male, Hyderabad ,Telangana,PRD043,Smartwatch,Electronics,41112.5,2,5.0,78113.75,9005.89,Net Banking,2025-11-14,2025-11-19,Cancelled
+ORD0499,CUST002,Sneha Gupta,34.0,Male,Kolkata,West Bengal,PRD054,Novel,Books,1601.04,5,-10%,8005.19,-292.65,,2025-06-18,2025-06-21,Delivered
+ORD0500,CUST059,Sneha Mehta,23.0,Male,Hyderabad,Telangana,PRD005,Tablet,Electronics,81688.39,1,5.0,77603.97,2291.63,UPI,2024-06-06,2024-06-10,Returned
+ORD0501,CUST186,Rohan Sharma,49.0,Male,Ahmedabad,Gujarat,PRD052,Data Science Book,Books,1258.63,3,5.0,3587.09,-111.76,COD,2024-08-09,,Delivered
+ORD0502,CUST040,Vivaan Mehta,33.0,Male,Hyderabad,Telangana,PRD078,T-Shirt,Clothing,2178.72,4,None,7843.39,1962.26,Wallet,2024-02-27,2024-03-02,Delivered
+ORD0503,CUST061,Kabir Reddy,50.0,Female,Delhi,Delhi,PRD051,Smartwatch,Electronics,45687.16,2,10.0,82236.89,7050.26,Cash on Delivery,2025-02-23,2025-02-26,Delivered
+ORD0504,CUST128,Arjun Verma,22.0,Female,Chennai,Tamil Nadu,PRD018,Hoodie,Clothing,5688.77,4,5.0,21617.34,6416.15,Wallet,2024-04-12,2024-04-15,Delivered
+ORD0505,CUST094,Ishaan Das,43.0,Female,Ahmedabad,Gujarat,PRD046,Shampoo,Beauty,4973.88,5,0.0,24869.42,4151.86,Debit Card,2025/13/40,2025/13/40,Returned
+ORD0506,CUST047,Rahul Sharma,62.0,Male,Pune,Maharashtra,PRD033,Cookware,Home & Kitchen,6149.48,2,0.0,12298.96,-482.12,UPI,2025-01-15,2025-01-20,Returned
+ORD0507,CUST105,Aanya Sharma,40.0,Female,Kolkata,West Bengal,PRD076,Data Science Book,Books,790.3,4,0.0,"₹3,161.19",₹-62.53,cash on delivery,2025-01-10,2025/13/40,Delivered
+ORD0508,CUST014,Kabir Das,,male,Pune,Maharashtra,PRD061,Cookware,Home & Kitchen,17403.2,2,20.0,27845.12,,Cash on Delivery,2025-08-18,2025-08-21,Delivered
+ORD0509,CUST140,Rahul Patel,56.0,Male,Pune,Maharashtra,PRD063,Cookware,Home & Kitchen,"₹4,527.26",1,0.0,4527.26,1545.71,Wallet,2025-08-23,2025-08-24,Delivered
+ORD0510,CUST095,Rahul Das,37.0,Male,Chennai,Tamil Nadu,PRD062,Notebook,Books,2179.41,5,25.0,8172.77,2092.68,Net Banking,06-03-2025,2025-06-06,Pending
+ORD0511,CUST153,Sahil Gupta,26.0,Female,Ahmedabad,Gujarat,PRD038,Hoodie,Clothing,6034.65,3,10.0,16293.55,-1221.9,Wallet,2025-05-23,2025-05-26,Delivered
+ORD0512,CUST120,Neha Das,28.0,Female,Kolkata,West Bengal,PRD012,Smartwatch,Electronics,29755.67,4,110%,113071.56,27892.51,Cash on Delivery,2024-11-16,2024-11-19,Pending
+ORD0513,CUST001,Unknown,49.0,Female,Chennai,Tamil Nadu,PRD079,Cookware,Home & Kitchen,5650.33,4,30.0,15820.93,4113.96,Cash on Delivery,2025-08-30,2025-09-05,Cancelled
+ORD0514,CUST013,Riya Kumar,23.0,MALE,delhi,Delhi,PRD023,Smartphone,Electronics,32695.04,1,0.0,32695.04,-1880.66,Credit Card,2025-08-04,2025-08-07,Delivered
+ORD0515,CUST154,Ananya Patel,59.0,Female, Bengaluru ,Karnataka,PRD080,Cookware,Home & Kitchen,13035.57,5,0.0,65177.86,2675.49,Wallet,2024-03-27,2024-03-31,Delivered
+ORD0516,CUST026,-,27.0,Male,Chennai,Tamil Nadu,PRD054,Moisturizer,Beauty,3386.23,2,15.0,5756.59,609.7,Wallet,2025-06-05,2025-06-20,Pending
+ORD0517,CUST009,Vivaan Sharma,44.0,Female,Kolkata,West Bengal,PRD043,Tablet,Electronics,24496.18,2,10.0,44093.13,14112.34,Wallet,2025-02-10,2025/02/12,Delivered
+ORD0518,CUST118,Rohan Singh,38.0,Male,Ahmedabad,Gujarat,PRD018,Shoes,Clothing,5085.68,2,20.0,8137.09,1535.97,Net Banking,2024-05-30,2024-05-31,Returned
+ORD0519,CUST208,Vivaan Reddy,34.0,Female,Mumbai,Maharashtra,PRD070,Face Wash,Beauty,4001.62,3,0.0,12004.85,11.98,Net Banking,2025-09-19,2025-09-22,Delivered
+ORD0520,CUST002,Sahil Mehta,62.0,Other,bangalore,Maharashtra,PRD038,Data Science Book,Books,1471.9,3,30.0,3091.0,898.63,Net Banking,2024-04-02,2024-04-08,Delivered
+ORD0521,CUST048,Pooja Reddy,27.0,Male,Mumbai,Maharashtra,PRD069,Chair,Home & Kitchen,13355.82,1,20.0,10684.65,1327.93,Credit Card,2025-07-20,2025-07-30,Delivered
+ORD0522,CUST047,Rohan Nair,54.0,Female,Pune,Maharashtra,PRD070,Mixer,Home & Kitchen,free,5,10.0,57513.77,11625.13,Credit Card,2024-08-16,2024-08-19,Returned
+ORD0523,CUST020,Aditya Gupta,43.0,Female,Bengaluru,Karnataka,PRD048,Smartwatch,Electronics,51862.14,4,20%,165958.83,31098.12,Net Banking,2024-04-02,2024-04-05,Delivered
+ORD0524,CUST191,Diya Nair,23.0,Male,Delhi,Delhi,PRD012,Laptop,Electronics,63099.4,1,25.0,47324.55,14609.66,Wallet,2024-04-27,2024-04-29,Delivered
+ORD0525,CUST204,Rohan Das,58.0,Female,Ahmedabad,Gujarat,PRD051,Mixer,Home & Kitchen,12275.02,2,20.0,19640.03,6255.88,Debit Card,2025-08-08,2025-08-18,Returned
+ORD0526,CUST070,Sneha Nair,42.0,Male,Ahmedabad,Gujarat,PRD003,Table Lamp,Home & Kitchen,10238.39,3,30.0,21500.61,2002.2,Cash on Delivery,2024-06-16,2024-06-21,Delivered
+ORD0527,CUST156,Riya Verma,48.0,Female,Kolkata,West Bengal,PRD037,Chair,Home & Kitchen,12758.13,5,25.0,47843.0,6736.49,Net Banking,?,2025-04-19,Returned
+ORD0528,CUST215,Kunal Singh,27.0,Female,Delhi,Delhi,PRD080,Cookware,Home & Kitchen,20314.76,3,20%,48755.44,-1181.16,UPI,2025-09-27,2025-10-02,Delivered
+ORD0529,CUST017,Kunal Patel,23.0,Female,Bengaluru,Karnataka,PRD038,Hair Oil,Beauty,567.73,1,30.0,397.41,78.37,COD,2024-11-15,2024-11-18,Returned
+ORD0530,CUST185,Rohan Kumar,55.0,Female,Delhi,Delhi,PRD076,T-Shirt,Clothing,3537.82,2,15.0,6014.3,669.19,Cash on Delivery,2024-02-05,2024-02-09,Delivered
+ORD0531,CUST096,Priya Sharma,42.0,Female, Hyderabad ,Telangana,PRD024,Tablet,Electronics,13254.94,3,5.0,37776.57,2624.26,Net Banking,2024-01-27,2024-01-30,Delivered
+ORD0532,CUST001,Rahul Sharma,60.0,Female,Ahmedabad,Gujarat,PRD057,Headphones,Electronics,58529.83,3,5.0,166810.01,10878.62,Net Banking,2025-06-22,2025-06-25,Cancelled
+ORD0533,CUST129,Neha Singh,65.0,Female,Pune,Maharashtra,PRD055,Notebook,Books,2132.06,2,5.0,4050.91,728.39,UPI,2024-03-10,2024-03-13,Delivered
+ORD0534,CUST066,Riya Gupta,49.0,Female,Hyderabad,Telangana,PRD048,Shampoo,Beauty,2212.4,4,0.0,8849.59,2346.49,Credit Card,2025-11-29,2025-12-01,Pending
+ORD0535,CUST065,Ishaan Das,24.0,Female,Ahmedabad,Gujarat,PRD072,Moisturizer,Beauty,341.49,3,10.0,922.01,155.43,Debit Card,2025-06-03,2025-06-07,Cancelled
+ORD0536,CUST211,Diya Singh,44.0,Female,Mumbai,Maharashtra,PRD063,Hoodie,Clothing,1112.56,1,0.0,1112.56,162.88,UPI,2024-06-29,2024-07-03,Pending
+ORD0537,CUST094,Kabir Kumar,62.0,Male,Mumbai,Maharashtra,PRD056,Laptop,Electronics,15122.76,5,15.0,64271.72,16142.26,Credit Card,2024-11-04,2024-11-08,Pending
+ORD0538,CUST203,Sahil Kumar,54.0,Female,MUMBAI,Gujarat,PRD054,Tablet,Electronics,89885.05,4,5%,341563.19,75653.07,,2025-02-17,2025-02-18,Returned
+ORD0539,CUST010,Sahil Sharma,48.0,Male,Mumbai,Maharashtra,PRD021,Notebook,Books,2012.79,3,10.0,5434.54,-265.23,Cash on Delivery,2024-10-29,2024-11-02,Delivered
+ORD0540,CUST188,Kabir Gupta,33.0,Male,Hyderabad,Telangana,PRD065,Data Science Book,Electronic,2112.97,5,20.0,8451.88,2536.57,UPI,2024-05-11,2024-05-14,Delivered
+ORD0541,CUST020,Kunal Gupta,62.0,Male,Pune,Maharashtra,PRD069,Jacket,Clothing,5394.38,-2,0.0,21577.52,1644.84,UPI,2024-05-31,2024-06-02,Pending
+ORD0542,CUST044,Priya Verma,34.0,Female,Chennai,Tamil Nadu,PRD075,Jacket,Clothing,1117.8,2,0.0,2235.6,385.93,Cash on Delivery,2024-10-21,2024-10-25,Delivered
+ORD0543,CUST002,Rohan Nair,51.0,Male,Pune,Maharashtra,PRD052,T-Shirt,Clothing,4467.56,4,10.0,16083.22,5483.41,Net Banking,2025-05-16,2025-05-19,Cancelled
+ORD0544,CUST191,Rohan Mehta,39.0,Male,Bengaluru,Karnataka,PRD076,Mixer,Home & Kitchen,2433.15,4,10.0,8759.34,557.78,Debit Card,2025-01-05,2025-01-09,Pending
+ORD0545,CUST008,Sahil Gupta,47.0,Male,Delhi,Delhi,PRD033,Table Lamp,Home & Kitchen,16313.52,2,15.0,27732.99,7712.41,COD,2024-05-25,2024-05-28,Delivered
+ORD0546,CUST186,Neha Kumar,20.0,Male,Hyderabad,Telangana,PRD077,Headphones,Electronics,16396.35,2,5.0,31153.06,887.11,Credit Card,2024-09-27,2024-09-30,Delivered
+ORD0547,CUST149,Diya Reddy,60.0,Male,Chennai,Tamil Nadu,PRD009,Novel,Books,1886.63,5,5.0,8961.5,2808.03,Cash on Delivery,2024-03-08,2024-03-11,Pending
+ORD0548,CUST107,Aarav Verma,34.0,Female,Ahmedabad,Gujarat,PRD062,Shampoo,Beauty,4324.11,5,5.0,20539.51,6335.73,Wallet,2024-03-01,2024-03-04,Delivered
+ORD0549,CUST019,Rohan Verma,32.0,Male,Delhi,Delhi,PRD045,Notebook,Books,926.19,1,0.0,926.19,,Credit Card,2025-08-28,2025-08-29,Delievered
+ORD0550,CUST113,Ishaan Gupta,54.0,Male,Pune,Maharashtra,PRD008,Vacuum Cleaner,Home & Kitchen,12875.45,2,20.0,20600.72,5282.65,Cash on Delivery,2025-03-01,2025-03-04,Returned
+ORD0551,CUST216,Sahil Das,62.0,Male,Ahmedabad,Gujarat,PRD033,Hoodie,Clothing,1771.21,2,25.0,2656.81,197.77,Cash on Delivery,2024-10-06,2024-10-10,Returned
+ORD0552,CUST023,Rahul Sharma,21.0,Male,Pune,Maharashtra,PRD020,Table Lamp,Home & Kitchen,free,3,15%,26456.33,1625.36,Cash on Delivery,2025-03-29,2025-04-03,Cancelled
+ORD0553,CUST179,Aanya Patel,53.0,male,Bengaluru,Karnataka,PRD001,Jeans,Clothing,5931.21,2,20.0,9489.94,85.16,UPI,2024-08-11,15-13-2025,Pending
+ORD0554,CUST145,Kabir Reddy,30.0,Male,-,Maharashtra,PRD006,Exam Guide,Books,1209.62,5,0.0,6048.12,9999999,Net Banking,2025-01-10,2025-01-16,Delivered
+ORD0555,CUST001,Rakesh Sharma,29.0,Male,Hyderabad,Telangana,PRD063,Python Book,Books,0.8k,4,25.0,2287.47,18.13,Cash on Delivery,2025-01-29,2025/02/03,Returned
+ORD0556,CUST191,Diya Kumar,31.0,Male,Pune,Maharashtra,PRD077,Chair,Home & Kitchen,16199.08,4,15.0,55076.87,15293.99,UPI,2025-08-14,2025-08-19,Pending
+ORD0557,CUST119,Ananya Mehta,58.0,Female,Hyderabad,Telangana,PRD075,Shampoo,Beauty,5.0k,1,15.0,4216.03,1340.12,Debit Card,2025-10-03,2025-10-07,Pending
+ORD0558,CUST123,Arjun Sharma,54.0,FEMALE,Ahmedabad,Gujarat,PRD058,Moisturizer,Beauty,2760.3,2,15.0,4692.5,1632.61,Cash on Delivery,2024-12-20,2024-12-24,Cancelled
+ORD0559,CUST084,Kabir Sharma,25 years,Male,N/A,Delhi,PRD036,Data Science Book,Books,744.21,2,0%,1488.42,193.32,UPI,2024-04-14,2024-04-16,CANCELLED
+ORD0560,CUST072,Diya Gupta,40.0,Female,Delhi,Delhi,PRD025,Data Science Book,Books,1545.31,1,0.0,1545.31,426.75,Debit Card,2025-04-06,2025-04-09,Delievered
+ORD0561,CUST193,Neha Verma,32.0,Female,Hyderabad,Telangana,PRD065,Shoes,Clothing,4910.36,2,15.0,8347.61,760.82,Net Banking,2024-03-19,2024-03-23,Delivered
+ORD0562,CUST060,,34.0,Male,Chennai,Tamil Nadu,PRD055,Moisturizer,Beauty,4959.65,4,25.0,14878.96,3164.15,Debit Card,2024-09-25,2024-10-02,Delivered
+ORD0563,CUST161,Ananya Kumar,43.0,Female, Mumbai ,Maharashtra,PRD037,Python Book,Books,334.54,5,5.0,1589.06,146.41,Wallet,2025-10-27,2025-10-28,Cancelled
+ORD0564,CUST088,Vivaan Sharma,57.0,Female,Ahmedabad,Gujarat,PRD069,Hair Oil,Electronics,1455.8,1,10.0,1310.22,333.82,Debit Card,2024-10-22,2024/10/27,Cancelled
+ORD0565,CUST164,Ananya Singh,29.0,Female,Mumbai,Maharashtra,PRD057,Notebook,Books,₹385.57,1,5.0,366.29,106.5,UPI ,2025-01-30,2025-02-01,Delivered
+ORD0566,CUST017,Kunal Verma,65.0,Male,Mumbai,Maharashtra,PRD040,Smartwatch,Electronics,38347.32,10000,30.0,53686.25,-1466.53,UPI,2025-10-17,2025-10-21,Cancelled
+ORD0567,CUST207,Rahul Mehta,999,Female,Delhi,Delhi,PRD012,Jacket,Clothing,4964.76,2,0.0,9929.52,501.53,Net Banking,2024-08-14,2024-08-18,Delivered
+ORD0568,CUST075,Diya Mehta,54.0,Female,Pune,Maharashtra,PRD049,Notebook,Books,1730.88,4,20.0,"₹5,538.81",611.63,Debit Card,2024-03-08,2024-03-11,Returned
+ORD0569,CUST199,Vivaan Singh,twenty five,Female,Mumbai,Maharashtra,PRD031,Shoes,Clothing,5372.57,2,30.0,"₹7,521.59",1824.29,Debit Card,2025-09-20,2025-09-25,Delivered
+ORD0570,CUST111,Kabir Sharma,34.0,Male,Ahmedabad,Gujarat,PRD057,Exam Guide,Books,839.47,1,15.0,713.55,233.75,Credit Card,2025-11-24,2025-12-01,Delivered
+ORD0571,CUST132,Sahil Reddy,63.0,Male,Pune,Maharashtra,PRD011,Moisturizer,Beauty,1968.88,4,20.0,6300.43,1896.5,Debit Card,2024-02-06,2024-02-13,Returned
+ORD0572,CUST150,Sahil Verma,62.0,Female,Ahmedabad,Gujarat,PRD026,Hair Oil,Beauty,"₹3,733.19",1,10.0,3359.87,568.27,Cash on Delivery,2024-04-19,,Delivered
+ORD0573,CUST163,Ishaan Singh,21.0,Female,Bengaluru,Karnataka,PRD077,Face Wash,Beauty,2879.04,-3,15.0,7341.56,145.49,UPI,2025-12-24,2025-12-28,Delivered
+ORD0574,CUST072,Kunal Kumar,37.0,Female,Pune,Maharashtra,PRD066,Moisturizer,Beauty,2777.23,2,0.0,5554.46,948.56,Debit Card,2024-05-31,2024-06-02,Pending
+ORD0575,CUST080,Kunal Reddy,32.0,Female,Kolkata,West Bengal,PRD054,Vacuum Cleaner,Home & Kitchen,3834.8,3,5.0,10929.18,3396.73,Wallet,2024-06-13,2024-06-15,DELIVERED
+ORD0576,CUST017,Sahil Sharma,53.0,Male,Chennai,Tamil Nadu,PRD023,Smartphone,Electronics,26614.11,4,10.0,95810.78,16606.03,Credit Card,2024-10-02,2024-10-07,Cancelled
+ORD0577,CUST018,Kabir Gupta,57.0,Male,Kolkata,West Bengal,PRD002,Smartwatch,Electronics,52410.83,3,25 %,133647.61,3822.92,UPI,2024-12-07,not available,Pending
+ORD0578,CUST004,Riya Reddy,48.0,Female,Chennai,Tamil Nadu,PRD077,Vacuum Cleaner,Home & Kitchen,17268.54,1,10.0,15541.69,-419.29,Wallet,2025-01-16,2025-01-20,Pending
+ORD0579,CUST072,Neha Kumar,33.0,Male,Pune,Maharashtra,PRD073,Notebook,Books,1278.6,5,10.0,5753.69,-328.87,UPI,2025-08-12,2025-08-19,Returned
+ORD0580,CUST201,Rahul Kumar,47.0,Female,Hyderabad,Telangana,PRD053,Shampoo,Beauty,2338.29,1,15.0,1987.55,-39.42,Credit Card,2025-10-13,2025-10-16,Pending
+ORD0581,CUST013,Pooja Gupta,65.0,Female,Mumbai,Maharashtra,PRD008,Chair,Home & Kitchen,22352.64,4,0.0,89410.56,-999999,Cash on Delivery,2025-09-18,2025-09-21,delivered
+ORD0582,CUST072,Priya Mehta,64.0,Male,Bengaluru,Karnataka,PRD052,Notebook,Books,Rs. 554,2,10.0,997.98,332.98,UPI,2025-05-15,2025-05-20,Returned
+ORD0583,CUST008,Vivaan Nair,62.0,Male,Kolkata,West Bengal,PRD020,Hoodie,Clothing,2547.87,3,5.0,7261.42,2151.58,Cash on Delivery,2024-03-02,2024-03-07,delivered
+ORD0584,CUST107,Arjun Singh,,Female,Pune,Maharashtra,PRD009,Table Lamp,Home & Kitchen,8783.95,4,10.0,31622.23,4351.08,Cash on Delivery,2024-08-14,2024-08-19,Delivered
+ORD0585,CUST203,Priya Sharma,53.0,Male,Pune,Maharashtra,PRD016,Vacuum Cleaner,Home & Kitchen,1683.85,2,5.0,3199.32,974.66,UPI,2024-10-23,2024-10-24,Cancelled
+ORD0586,CUST155,Sahil Das,38.0,Male,Delhi,Delhi,PRD058,Cookware,Home & Kitchen,9455.8,3,30.0,19857.19,-831.77,UPI,2024-12-20,2024-12-30,Delivered
+ORD0587,CUST194,Aditya Mehta,53.0,Female, Hyderabad ,Telangana,PRD022,Tablet,electronics,21450.52,3,10.0,57916.4,"₹12,231.48",Wallet,04/08/2024,2024-08-09,Pending
+ORD0588,CUST213,Neha Sharma,57.0,Female,Kolkata,West Bengal,PRD072,Table Lamp,Home & Kitchen,22765.25,2,10.0,40977.45,1964.67,Cash on Delivery,2024-10-12,2024-10-27,Cancelled
+ORD0589,CUST149,Pooja Das,30.0,Male,,West Bengal,PRD002,Tablet,Electronics,28811.41,1,5.0,27370.84,3593.25,Debit Card,19/07/2025,2025-07-17,Pending
+ORD0590,CUST016,Riya Das,25.0,female,Hyderabad,Telangana,PRD066,Smartphone,Electronics,36738.56,2,25.0,55107.83,18696.97,Cash on Delivery,2024-01-14,2024-01-17,Delivered
+ORD0591,CUST161,Riya Kumar,150,Female,Kolkata,West Bengal,PRD078,Novel,Books,1958.08,3,30.0,4111.97,1205.27,Cash on Delivery,2024-06-16,2024-06-20,Returned
+ORD0592,CUST140,-,52.0,Female,Ahmedabad,Gujarat,PRD043,Notebook,Books,1540.05,2,15.0,2618.08,706.95,Net Banking,2024-04-01,2024-04-11,Pending
+ORD0593,CUST024,Aanya Reddy,49.0,Male,Bengaluru,Karnataka,PRD038,Hair Oil,Beauty,2817.74,4,25.0,8453.23,534.3,Cash on Delivery,2024-07-31,2024-08-06,Delivered
+ORD0594,CUST068,Arjun Patel,62.0,Female,Ahmedabad,Gujarat,PRD026,Table Lamp,Home & Kitchen,15051.33,4,30.0,42143.72,-999999,Cash on Delivery,2024-08-28,2024-09-07,Delivered
+ORD0595,CUST173,Neha Nair,31.0,Male,Chennai,Tamil Nadu,PRD034,Table Lamp,Home & Kitchen,9110.5,4,25.0,27331.49,-391.31,Wallet,2024-08-15,2024-08-20,Returned
+ORD0596,CUST207,Pooja Mehta,62.0,Female,Ahmedabad,Gujarat,PRD010,Chair,Home & Kitchen,24340.42,3,15.0,62068.06,20256.91,Wallet,31/02/2025,2025-12-06,Delivered
+ORD0597,CUST161,Ishaan Singh,?,Male,,Maharashtra,PRD047,Hair Oil,Beauty,4574.98,3,10.0,12352.44,1263.67,COD,2025-09-05,06-09-2025,Delivered
+ORD0598,CUST113,Priya Reddy,25.0,Female,Bengaluru,Karnataka,PRD042,Table Lamp,Home & Kitchen,"₹9,337.11",5,10.0,42017.0,-1873.66,Net Banking,2024-12-11,2024-12-14,Delivered
+ORD0599,CUST054,Ananya Mehta,64.0,Female,Mumbai,Maharashtra,PRD055,Jacket,Clothing,5121.04,3,20.0,12290.5,154.18,Net Banking,2025-05-14,2025-05-19,Pending
+ORD0600,CUST143,Kabir Kumar,21.0,Male,Ahmedabad,Gujarat,PRD064,Smartphone,Electronics,44284.29,4,5.0,168280.29,54647.51,Wallet,2024-06-25,2024-06-28,Delivered
+ORD0504,CUST128,Arjun Verma,22.0,Female,Chennai,Tamil Nadu,PRD018,Hoodie,Clothing,5688.77,4,5.0,21617.34,6416.15,Wallet,2024-04-12,2024-04-15,Delivered
+ORD0033,CUST017,Rohan Verma,23.0,Female,Kolkata,West Bengal,PRD077,Shoes,Clothing,3077.53,4,10.0,11079.1,3125.41,Wallet,09-05-2024,,Delivered
+ORD0539,CUST010,Sahil Sharma,48.0,Male,Mumbai,Maharashtra,PRD021,Notebook,Books,2012.79,3,10.0,5434.54,-265.23,Cash on Delivery,2024-10-29,2024-11-02,Delivered
+ORD0004,CUST154,Rahul Nair,46.0,Female,Hyderabad,Telangana,PRD065,Jeans,Clothing,4207.89,?,10.0,18935.49,5232.96,UPI,2025/13/40,2024-10-01,Pending
+ORD0011,CUST048,Sneha Gupta,54.0,Female,Bengaluru,Karnataka,PRD009,Python Book,Books,561.14,4,15.0,1907.89,45.78,UPI,2025-04-17,2025-04-19,Delivered
+ORD0520,CUST002,Sahil Mehta,62.0,Other,Pune,Maharashtra,PRD038,Data Science Book,ELEC,1471.9,3,30.0,3091.0,898.63,Net Banking,2024-04-02,2024-04-08,Delivered
+ORD0207,CUST059,Kunal Mehta,54.0,Male,Hyderabad,Telangana,PRD061,Notebook,Books,"₹1,292.41",5,30.0,4523.42,824.51,Credit Card,31/02/2025,2024-12-04,Returned
+ORD0419,CUST043,Neha Singh,44.0,M,Mumbai,Maharashtra,PRD035,Novel,Books,1299.91,3,10.0,3509.75,429.73,Cash on Delivery,2025-04-17,2025-04-21,Cancelled
+ORD0192,CUST074,Ishaan Gupta,32.0,Female,Ahmedabad,Gujarat,PRD023,Laptop,Electronics,69355.09,5,20.0,277420.37,76074.21,Wallet,2024-08-26,2024-08-30,Delivered
+ORD0051,CUST151,Neha Singh,53.0,Female,Kolkata,West Bengal,PRD002,Jacket,Clothing,5744.53,10000,0.0,11489.05,-496.69,UPI,2024-04-05,2024-04-20,Pending
+ORD0375,CUST149,Riya Reddy,37.0,Male, Delhi ,Delhi,PRD008,Hoodie,Clothing,4764.01,1,0.0,4764.01,1424.16,Debit Card,2025-11-06,2025-11-12,Delivered
+ORD0203,CUST001,R. Sharma,32.0,Male,Ahmedabad,Gujarat,PRD079,Python Book,Books,1133.73,5,10.0,5101.77,792.37,Net Banking,2024-03-05,2024-03-09,Delivered
+ORD0293,CUST141,Rohan Das,30.0,Male,Hyderabad,Telangana,PRD050,Data Science Book,Books,2149.74,4,25.0,6449.21,-70.58,Credit Card,2025-08-11,2025-08-17,Pending
+ORD0516,CUST026,-,27.0,Male,Chennai,Tamil Nadu,PRD054,Moisturizer,Beauty,3386.23,2,15.0,5756.59,609.7,Wallet,2025-06-05,2025-06-20,Pending
+ORD0405,CUST070,Aanya Gupta,31.0,M,Kolkata,West Bengal,PRD074,T-Shirt,Clothing,4980.32,5,NA,24901.58,541.67,Wallet,2025-02-14,2025-02-16,Delivered
+ORD0329,CUST185,,32.0,Male,,Telangana,PRD042,Vacuum Cleaner,Home & Kitchen,23853.88,4,0.0,95415.5,3362.33,Net Banking,2024-12-02,2024-12-04,Pending
+ORD0218,CUST058,Sahil Mehta,42.0,Female,Delhi,Delhi,PRD047,Perfume,Home and Kitchen ,1523.64,3,0.0,4570.91,969.29,Net Banking,2024-12-31,2025-01-02,Delivered
+ORD0054,CUST053,N/A,62.0,Female,Chennai,Tamil Nadu,PRD062,T-Shirt,Clothing,1841.74,3,15.0,4696.43,837.01,Credit Card,2025-11-07,2025-11-12,Returned
+ORD0559,CUST084,Kabir Sharma,25 years,Male,N/A,Delhi,PRD036,Data Science Book,Books,744.21,2,0%,1488.42,193.32,UPI,2024-04-14,2024-04-16,CANCELLED
+ORD0194,CUST163,Kunal Sharma,52.0,Male, Mumbai ,Maharashtra,PRD059,Jacket,Clothing,5873.24,5,25.0,22024.64,7686.16,Net Banking,2024-06-30,2024-07-05,Delivered
+ORD0593,CUST024,Aanya Reddy,49.0,Male,Bengaluru,Karnataka,PRD038,Hair Oil,Beauty,2817.74,4,25.0,8453.23,534.3,Cash on Delivery,2024-07-31,2024-08-06,Delivered
+ORD0408,CUST156,Vivaan Singh,60.0,Male,Mumbai,Maharashtra,PRD006,Table Lamp,Home & Kitchen,19017.67,1,10.0,17115.91,3456.05,Cash on Delivery,2024-12-16,2024-12-19,Delivered
+ORD0274,CUST135,Sneha Gupta,24.0,Female,Delhi,Delhi,PRD034,Vacuum Cleaner,Home & Kitchen,13136.27,3,0.0,39408.8,10454.44,Wallet,2025-06-11,2025-06-13,Cancelled
+ORD0116,CUST115,Sneha Nair,58.0,Male,Ahmedabad,Gujarat,PRD068,Shampoo,Beauty,3340.04,2,5.0,6346.07,415.37,Credit Card,2025-10-27,2025-10-30,Delivered
+ORD0111,CUST192,Neha Patel,47.0,Male,Ahmedabad,Gujarat,PRD055,Jeans,Clothing,4637.19,2,20.0,7419.5,1922.43,UPI,2024-06-07,2024-06-08,Delivered
+ORD0522,CUST047,Rohan Nair,54.0,Female,Pune,Maharashtra,PRD070,Mixer,Home & Kitchen,free,5,10.0,57513.77,11625.13,Credit Card,2024-08-16,2024-08-19,Returned
+ORD0521,CUST048,Pooja Reddy,27.0,Male,Mumbai,Maharashtra,PRD069,Chair,Home & Kitchen,13355.82,1,20.0,10684.65,1327.93,Credit Card,2025-07-20,2025-07-30,Delivered
+ORD0431,CUST184,Rahul Kumar,34.0,Female,delhi,Delhi,PRD027,Jacket,Clothing,803.45,3,-,error,400.73,Net Banking,2024-01-20,2024-02-04,Delivered
+ORD0464,CUST068,Rahul Kumar,44.0,Male, bengaluru ,Delhi,PRD061,Perfume,Beauty,2481.43,4,20.0,2500,-418.31,Debit Card,2025-12-30,2026-01-05,Delivered
+ORD0330,CUST020,R. Kumar,55.0,Male,Pune,Maharashtra,PRD078,Data Science Book,Books,2191.1,5,15.0,2500,2909.31,UPI,2025-03-16,2025/13/40,Delivered
+ORD0374,CUST183,R. Kumar,54.0,Female,Delhi,Delhi,PRD017,Headphones,Electronics,69522.29,1,20.0,error,4310.56,Wallet,2025-06-13,2025-06-18,Cancelled
+ORD0222,CUST112,Rahul Kumar,28.0,Female,Kolkata,West Bengal,PRD004,Shampoo,Beauty,2827.86,1,10.0,999999,423.52,Cash on Delivery,2025-05-08,2025-05-10,Delivered
+ORD0159,CUST018,R. Kumar,35.0,Other,Pune,Maharashtra,PRD004,Jacket,Clothing,4637.5,1,5.0,0,517.02,Cash on Delivery,2025-10-29,2025-11-03,Delivered
+ORD0241,CUST054,Rahul K.,24.0,Male,Hyderabad,Telangana,PRD011,Vacuum Cleaner,Home & Kitchen,9414.5,1,30.0,999999,1833.89,Cash on Delivery,2024-11-19,2024-11-21,Returned
+ORD0089,CUST154,R. Kumar,41.0,Female,Kolkata,West Bengal,PRD060,Vacuum Cleaner,Home & Kitchen,16412.52,2,30.0,error,1653.72,Credit Card,2024-04-27,2024-05-01,Delivered
+ORD0051,CUST151,Unknown,53.0,Female,Kolkata,West Bengal,PRD002,Jacket,Clothing,5744.53,10000,0.0,2500,-496.69,UPI,2024-04-05,2024-04-20,Pending
+ORD0097,CUST149,Rahul Kumar,42.0,Male,Pune,Maharashtra,PRD045,Smartwatch,Electronics,57712.74,1,20.0,error,-1276.25,Cash on Delivery,2024-04-04,2024-04-08,Delivered
+ORD0293,CUST141,Unknown,30.0,Male,Hyderabad,Telangana,PRD050,Data Science Book,Books,2149.74,4,25.0,999999,-70.58,Credit Card,2025-08-11,2025-08-17,Pending
+ORD0512,CUST120,Rahul K.,28.0,Female,Kolkata,West Bengal,PRD012,Smartwatch,Electronics,29755.67,4,110%,2500,27892.51,Cash on Delivery,2024-11-16,2024-11-19,Pending
+ORD0482,CUST144,Aanya Mehta,62.0,Female,Hyderabad,Telangana,PRD054,Laptop,Electronics,"₹5,000",five,5.0,"₹77,435.24",21887.11,Wallet,2025-08-14,2025-08-17, Delivered 
+ORD0374,CUST183,R. Kumar,54.0,Female,Delhi,Delhi,PRD017,Headphones,Electronics,-999,five,20.0,error,4310.56,Wallet,2025-06-13,2025-06-18,Cancelled
+ORD0143,CUST069,Rahul Mehta,33.0,Female,Hyderabad,Telangana,PRD022,Cookware,Home & Kitchen,"₹5,000",five,10.0,2097.84,63.15,Net Banking,2024-12-30,2025-01-03,Returned
+ORD0066,CUST045,Diya Das,49.0,Male,Chennai,Tamil Nadu,PRD030,Cookware,Home & Kitchen,1000000,five,20.0,15600.4,-184.08,Credit Card,?,2024-12-20,Delivered
+ORD0097,CUST149,Vivaan Patel,42.0,Male,Pune,Maharashtra,PRD045,Smartwatch,Electronics,-999,9999,20.0,46170.19,-1276.25,Cash on Delivery,2024-04-04,2024-04-08,Delivered
+ORD0418,CUST186,Sneha Nair,62.0,Male,Ahmedabad,Gujarat,PRD061,Shampoo,Beauty,free,-1,5.0,3413.3,-50000,Wallet,2024-03-05,2024-03-08,Cancelled
+ORD0379,CUST159,Kabir Singh,-4.0,Male,Hyderabad,Telangana,PRD010,Tablet,Electronics,"₹5,000",five,20.0,21892.75,5724.47,Wallet,2024-05-25,2024-06-04,Pending
+ORD0312,CUST022,Kunal Mehta,20.0,Male,Chennai,Tamil Nadu,PRD058,Perfume,Beauty,-999,five,5.0,8223.49,2405.21,Cash on Delivery,2024-09-18,2024-09-23,Cancelled
+ORD0129,CUST055,Ishaan Patel,39.0,Female,Kolkata,West Bengal,PRD067,Exam Guide,Books,"₹5,000",five,20.0,"₹5,045.31",983.99,Wallet,2024-06-22,2024-06-27,Delivered
+ORD0400,CUST041,Ishaan Das,19.0,Female,Delhi,Delhi,PRD016,Table Lamp,Home & Kitchen,free,9999,5.0,34619.66,-2538.86,UPI,2025-09-16,2025-09-19,Cancelled
