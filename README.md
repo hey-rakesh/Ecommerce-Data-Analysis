@@ -22,7 +22,7 @@ https://rakesh-ecommerce-dashboard.streamlit.app
 ## 📊 Dashboard KPIs
 
 - Total Sales
-- Total Profit
+- Total Profits
 - Total Orders
 - Average Order Value
 - Profit Margin
